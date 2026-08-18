@@ -256,15 +256,35 @@
       "title": "Programming"
     },
     {
-      "description": "",
+      "description": "⬆ Back to Index",
       "items": [],
       "title": "Prototyping"
+    },
+    {
+      "description": "⬆ Back to Index",
+      "items": [],
+      "title": "Remote"
+    },
+    {
+      "description": "⬆ Back to Index",
+      "items": [],
+      "title": "Resume"
+    },
+    {
+      "description": "⬆ Back to Index",
+      "items": [],
+      "title": "Scraping"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Screenshot"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T21:12:08.013Z",
+    "last_updated": "2026-08-18T21:09:51.824Z",
     "original_repository": "marcelscruz/dev-resources",
-    "original_repository_sha": "cd35d643808ac5bba8804b87b6ae8ded7aad899c",
+    "original_repository_sha": "a22c226514f4d71182d7ef80b7d7e05c34fb38db",
     "enhanced_repository": "enhansome/enhansome-dev-resources",
     "enhanced_repository_description": null,
     "title": "Awesome dev resources with stars"
