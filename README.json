@@ -1,10 +1,328 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome a11y",
+              "description": "Awesome a11y A curate list about A11Y. Contribute to brunopulis/awesome-a11y development by creating an account on GitHub.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35356178,
+                "language": null,
+                "last_commit": "2026-08-03T22:10:04Z",
+                "owner": "brunopulis",
+                "repo": "awesome-a11y",
+                "stars": 1981
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Checka11y.css",
+              "description": "Checka11y.css A CSS stylesheet to quickly highlight a11y concerns. - jackdomleo7/Checka11y.css.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 297905776,
+                "language": "CSS",
+                "last_commit": "2025-10-20T21:10:57Z",
+                "owner": "jackdomleo7",
+                "repo": "Checka11y.css",
+                "stars": 445
+              }
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Accessibility"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "agent-qa",
+              "description": "agent-qa Self-improving QA agent for web and mobile apps with natural-language tests, run memory, UI-change adaptation, and regression detection before shipping. ai, testing, qa, web, mobile, regression testing, natural language tests",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1232322871,
+                "language": "TypeScript",
+                "last_commit": "2026-08-03T18:44:59Z",
+                "owner": "vostride",
+                "repo": "agent-qa",
+                "stars": 960
+              }
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "AI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PR Radar",
+              "description": "PR Radar Free, open-source browser extension for a unified PR dashboard across GitHub, GitLab, and Bitbucket. CI status, review tracking, notifications, and keyboard shortcuts. pull requests, code review, CI, GitHub, GitLab, Bitbucket",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1211327237,
+                "language": "TypeScript",
+                "last_commit": "2026-07-22T05:03:49Z",
+                "owner": "deployhq",
+                "repo": "pr-radar",
+                "stars": 11
+              }
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Extension"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome for Beginners",
+              "description": "Awesome for Beginners A list of awesome beginners-friendly projects. Contribute to MunGell/awesome-for-beginners development by creating an account on GitHub.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44882201,
+                "language": null,
+                "last_commit": "2026-07-25T07:00:20Z",
+                "owner": "MunGell",
+                "repo": "awesome-for-beginners",
+                "stars": 88668
+              }
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Hacktoberfest"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Certificates",
+              "description": "Awesome Certificates A curated list of IT, Computer Science and Business courses with free certificates to earn. learn, courses, certificates, awesome, panx, free, it, cs, business",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 324033106,
+                "language": null,
+                "last_commit": "2026-06-30T15:46:25Z",
+                "owner": "PanXProject",
+                "repo": "awesome-certificates",
+                "stars": 5589
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Courses",
+              "description": "Awesome Courses List of awesome university courses for learning Computer Science.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26689598,
+                "language": null,
+                "last_commit": "2023-05-04T12:49:34Z",
+                "owner": "prakhar1989",
+                "repo": "awesome-courses",
+                "stars": 70633
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Computer Science courses with video lectures",
+              "description": "Computer Science courses with video lectures List of Computer Science courses with video lectures.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71583602,
+                "language": null,
+                "last_commit": "2026-07-07T17:42:10Z",
+                "owner": "Developer-Y",
+                "repo": "cs-video-courses",
+                "stars": 83168
+              }
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Learn"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Luqum",
+              "description": "Luqum Luqum is a Python library for parsing Lucene query expressions and converting them into structured Elasticsearch DSL queries. It helps developers safely interpret, transform, and analyze Lucene style ... python, lucene, elasticsearch, query parser, search, dsl, developer tools",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49724057,
+                "language": "Python",
+                "last_commit": "2026-04-14T00:02:33Z",
+                "owner": "jurismarches",
+                "repo": "luqum",
+                "stars": 202
+              }
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Library"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AeroFTP",
+              "description": "AeroFTP Open-source multi-protocol file transfer client supporting 22 protocols (FTP, SFTP, WebDAV, S3, Google Drive, Dropbox and more), with encrypted vaults, a built-in terminal and an AI assistant. Built w... ftp, sftp, webdav, s3, file transfer, cloud storage, encryption, tauri, rust",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1119622081,
+                "language": "Rust",
+                "last_commit": "2026-08-21T17:46:45Z",
+                "owner": "axpdev-lab",
+                "repo": "aeroftp",
+                "stars": 222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Luqum",
+              "description": "Luqum Luqum is a Python library for parsing Lucene query expressions and converting them into structured Elasticsearch DSL queries. It helps developers safely interpret, transform, and analyze Lucene style ... python, lucene, elasticsearch, query parser, search, dsl, developer tools",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49724057,
+                "language": "Python",
+                "last_commit": "2026-04-14T00:02:33Z",
+                "owner": "jurismarches",
+                "repo": "luqum",
+                "stars": 202
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PR Radar",
+              "description": "PR Radar Free, open-source browser extension for a unified PR dashboard across GitHub, GitLab, and Bitbucket. CI status, review tracking, notifications, and keyboard shortcuts. pull requests, code review, CI, GitHub, GitLab, Bitbucket",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1211327237,
+                "language": "TypeScript",
+                "last_commit": "2026-07-22T05:03:49Z",
+                "owner": "deployhq",
+                "repo": "pr-radar",
+                "stars": 11
+              }
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Open Source"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Certificates",
+              "description": "Awesome Certificates A curated list of IT, Computer Science and Business courses with free certificates to earn. learn, courses, certificates, awesome, panx, free, it, cs, business",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 324033106,
+                "language": null,
+                "last_commit": "2026-06-30T15:46:25Z",
+                "owner": "PanXProject",
+                "repo": "awesome-certificates",
+                "stars": 5589
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Courses",
+              "description": "Awesome Courses List of awesome university courses for learning Computer Science.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26689598,
+                "language": null,
+                "last_commit": "2023-05-04T12:49:34Z",
+                "owner": "prakhar1989",
+                "repo": "awesome-courses",
+                "stars": 70633
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Berry Free React Material Admin Template",
+              "description": "Berry Free React Material Admin Template Berry is a creative free React admin template build using the Material-UI. It is meant to be the best User Experience with highly customizable feature-riched pages. It is a complete game-changer React...",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 363574334,
+                "language": "JavaScript",
+                "last_commit": "2026-08-16T12:57:43Z",
+                "owner": "codedthemes",
+                "repo": "berry-free-react-admin-template",
+                "stars": 2183
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Checka11y.css",
+              "description": "Checka11y.css A CSS stylesheet to quickly highlight a11y concerns. - jackdomleo7/Checka11y.css.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 297905776,
+                "language": "CSS",
+                "last_commit": "2025-10-20T21:10:57Z",
+                "owner": "jackdomleo7",
+                "repo": "Checka11y.css",
+                "stars": 445
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Computer Science courses with video lectures",
+              "description": "Computer Science courses with video lectures List of Computer Science courses with video lectures.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71583602,
+                "language": null,
+                "last_commit": "2026-07-07T17:42:10Z",
+                "owner": "Developer-Y",
+                "repo": "cs-video-courses",
+                "stars": 83168
+              }
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Programming"
+        }
+      ],
+      "title": "Index"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T21:07:03.108Z",
+    "last_updated": "2026-08-24T14:10:21.297Z",
     "original_repository": "marcelscruz/dev-resources",
     "original_repository_id": 332861272,
-    "original_repository_sha": "9019a4c774c5aaa4ec087f5acf1bcd2428d295bb",
+    "original_repository_sha": "3ad8a212ce6d86a46e36db6047ee82df49c66a1d",
     "enhanced_repository": "enhansome/enhansome-dev-resources",
     "enhanced_repository_description": null,
     "title": "Awesome dev resources with stars"
