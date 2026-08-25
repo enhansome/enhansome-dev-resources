@@ -54,7 +54,7 @@
                 "last_commit": "2026-08-03T18:44:59Z",
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 961
+                "stars": 874
               }
             }
           ],
@@ -98,7 +98,7 @@
                 "last_commit": "2026-07-25T07:00:20Z",
                 "owner": "MunGell",
                 "repo": "awesome-for-beginners",
-                "stars": 88691
+                "stars": 88708
               }
             }
           ],
@@ -120,7 +120,7 @@
                 "last_commit": "2026-06-30T15:46:25Z",
                 "owner": "PanXProject",
                 "repo": "awesome-certificates",
-                "stars": 5595
+                "stars": 5597
               }
             },
             {
@@ -135,7 +135,7 @@
                 "last_commit": "2023-05-04T12:49:34Z",
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70651
+                "stars": 70660
               }
             },
             {
@@ -147,10 +147,10 @@
                 "archived": false,
                 "id": 71583602,
                 "language": null,
-                "last_commit": "2026-07-07T17:42:10Z",
+                "last_commit": "2026-08-25T15:43:31Z",
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 83174
+                "stars": 83175
               }
             }
           ],
@@ -191,7 +191,7 @@
                 "archived": false,
                 "id": 1119622081,
                 "language": "Rust",
-                "last_commit": "2026-08-24T23:11:51Z",
+                "last_commit": "2026-08-25T16:13:35Z",
                 "owner": "axpdev-lab",
                 "repo": "aeroftp",
                 "stars": 223
@@ -246,7 +246,7 @@
                 "last_commit": "2026-06-30T15:46:25Z",
                 "owner": "PanXProject",
                 "repo": "awesome-certificates",
-                "stars": 5595
+                "stars": 5597
               }
             },
             {
@@ -261,7 +261,7 @@
                 "last_commit": "2023-05-04T12:49:34Z",
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70651
+                "stars": 70660
               }
             },
             {
@@ -303,10 +303,10 @@
                 "archived": false,
                 "id": 71583602,
                 "language": null,
-                "last_commit": "2026-07-07T17:42:10Z",
+                "last_commit": "2026-08-25T15:43:31Z",
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 83174
+                "stars": 83175
               }
             }
           ],
@@ -319,10 +319,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:08:44.180Z",
+    "last_updated": "2026-08-25T21:13:12.232Z",
     "original_repository": "marcelscruz/dev-resources",
     "original_repository_id": 332861272,
-    "original_repository_sha": "7d512e0865ee4e099d7cf9e727d0b364efe06c3b",
+    "original_repository_sha": "4953d8a6d31c068164b4a9ec28f9fd3053cf951f",
     "enhanced_repository": "enhansome/enhansome-dev-resources",
     "enhanced_repository_description": null,
     "title": "Awesome dev resources with stars"
