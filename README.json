@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-03T22:10:04Z",
                 "owner": "brunopulis",
                 "repo": "awesome-a11y",
-                "stars": 1984
-              }
+                "stars": 1985
+              },
+              "first_seen": "2026-08-28T04:55:40.576Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "jackdomleo7",
                 "repo": "Checka11y.css",
                 "stars": 445
-              }
+              },
+              "first_seen": "2026-08-28T04:55:40.576Z"
             }
           ],
           "description": "⬆ Back to Index",
@@ -54,8 +56,9 @@
                 "last_commit": "2026-08-03T18:44:59Z",
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 843
-              }
+                "stars": 871
+              },
+              "first_seen": "2026-08-28T04:55:40.576Z"
             }
           ],
           "description": "⬆ Back to Index",
@@ -77,7 +80,8 @@
                 "owner": "deployhq",
                 "repo": "pr-radar",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T04:55:40.576Z"
             }
           ],
           "description": "⬆ Back to Index",
@@ -98,8 +102,9 @@
                 "last_commit": "2026-07-25T07:00:20Z",
                 "owner": "MunGell",
                 "repo": "awesome-for-beginners",
-                "stars": 88756
-              }
+                "stars": 88781
+              },
+              "first_seen": "2026-08-28T04:55:40.576Z"
             }
           ],
           "description": "⬆ Back to Index",
@@ -120,8 +125,9 @@
                 "last_commit": "2026-06-30T15:46:25Z",
                 "owner": "PanXProject",
                 "repo": "awesome-certificates",
-                "stars": 5605
-              }
+                "stars": 5611
+              },
+              "first_seen": "2026-08-28T04:55:40.576Z"
             },
             {
               "node_type": "item",
@@ -135,8 +141,9 @@
                 "last_commit": "2023-05-04T12:49:34Z",
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70691
-              }
+                "stars": 70705
+              },
+              "first_seen": "2026-08-28T04:55:40.576Z"
             },
             {
               "node_type": "item",
@@ -150,8 +157,9 @@
                 "last_commit": "2026-08-26T13:55:35Z",
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 83187
-              }
+                "stars": 83188
+              },
+              "first_seen": "2026-08-28T04:55:40.576Z"
             }
           ],
           "description": "⬆ Back to Index",
@@ -173,7 +181,8 @@
                 "owner": "jurismarches",
                 "repo": "luqum",
                 "stars": 202
-              }
+              },
+              "first_seen": "2026-08-28T04:55:40.576Z"
             }
           ],
           "description": "⬆ Back to Index",
@@ -191,11 +200,12 @@
                 "archived": false,
                 "id": 1119622081,
                 "language": "Rust",
-                "last_commit": "2026-08-27T10:37:04Z",
+                "last_commit": "2026-08-27T19:39:21Z",
                 "owner": "axpdev-lab",
                 "repo": "aeroftp",
-                "stars": 224
-              }
+                "stars": 225
+              },
+              "first_seen": "2026-08-28T04:55:40.576Z"
             },
             {
               "node_type": "item",
@@ -210,7 +220,8 @@
                 "owner": "jurismarches",
                 "repo": "luqum",
                 "stars": 202
-              }
+              },
+              "first_seen": "2026-08-28T04:55:40.576Z"
             },
             {
               "node_type": "item",
@@ -225,7 +236,8 @@
                 "owner": "deployhq",
                 "repo": "pr-radar",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T04:55:40.576Z"
             }
           ],
           "description": "⬆ Back to Index",
@@ -246,8 +258,9 @@
                 "last_commit": "2026-06-30T15:46:25Z",
                 "owner": "PanXProject",
                 "repo": "awesome-certificates",
-                "stars": 5605
-              }
+                "stars": 5611
+              },
+              "first_seen": "2026-08-28T04:55:40.576Z"
             },
             {
               "node_type": "item",
@@ -261,8 +274,9 @@
                 "last_commit": "2023-05-04T12:49:34Z",
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70691
-              }
+                "stars": 70705
+              },
+              "first_seen": "2026-08-28T04:55:40.576Z"
             },
             {
               "node_type": "item",
@@ -277,7 +291,8 @@
                 "owner": "codedthemes",
                 "repo": "berry-free-react-admin-template",
                 "stars": 2184
-              }
+              },
+              "first_seen": "2026-08-28T04:55:40.576Z"
             },
             {
               "node_type": "item",
@@ -292,7 +307,8 @@
                 "owner": "jackdomleo7",
                 "repo": "Checka11y.css",
                 "stars": 445
-              }
+              },
+              "first_seen": "2026-08-28T04:55:40.576Z"
             },
             {
               "node_type": "item",
@@ -306,8 +322,9 @@
                 "last_commit": "2026-08-26T13:55:35Z",
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 83187
-              }
+                "stars": 83188
+              },
+              "first_seen": "2026-08-28T04:55:40.576Z"
             }
           ],
           "description": "⬆ Back to Index",
@@ -319,17 +336,17 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:35:06.213Z",
+    "last_updated": "2026-08-28T04:55:40.576Z",
     "original_repository_info": {
       "archived": false,
       "id": 332861272,
       "language": "TypeScript",
-      "last_commit": "2026-08-26T17:13:30Z",
+      "last_commit": "2026-08-27T19:07:45Z",
       "owner": "marcelscruz",
       "repo": "dev-resources",
-      "stars": 1331
+      "stars": 1332
     },
-    "original_repository_sha": "fb4b7334f1f5b9086d0efda7d39d4569c34e743e",
+    "original_repository_sha": "ae402109add6b8764549057cc23978cf07ce6da4",
     "enhanced_repository": "enhansome/enhansome-dev-resources",
     "enhanced_repository_description": null,
     "title": "Awesome dev resources with stars"
