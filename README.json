@@ -12,12 +12,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curate list about A11Y",
+                "homepage": null,
                 "id": 35356178,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-03T22:10:04Z",
+                "open_issues": 63,
                 "owner": "brunopulis",
                 "repo": "awesome-a11y",
-                "stars": 1986
+                "stars": 1986,
+                "topics": [
+                  "a11y",
+                  "accessibility",
+                  "assistive-technology",
+                  "awesome",
+                  "awesome-list",
+                  "wai-aria",
+                  "wcag"
+                ]
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
             },
@@ -28,12 +41,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CSS stylesheet to quickly highlight a11y concerns.",
+                "homepage": "http://checka11y.jackdomleo.dev/",
                 "id": 297905776,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2025-10-20T21:10:57Z",
+                "open_issues": 1,
                 "owner": "jackdomleo7",
                 "repo": "Checka11y.css",
-                "stars": 445
+                "stars": 445,
+                "topics": [
+                  "a11y",
+                  "a11y-testing",
+                  "accessibility",
+                  "hacktoberfest",
+                  "npm-package"
+                ]
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
             }
@@ -51,12 +75,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship.",
+                "homepage": "https://vostride.com",
                 "id": 1232322871,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-03T18:44:59Z",
+                "open_issues": 0,
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 910
+                "stars": 913,
+                "topics": [
+                  "ai-agents",
+                  "ai-testing",
+                  "anthropic",
+                  "autonomous-agents",
+                  "browser-automation",
+                  "chatgpt",
+                  "claude-code",
+                  "clawdbot",
+                  "codex",
+                  "developer-tools",
+                  "dsh-plugin",
+                  "end-to-end-testing",
+                  "frontend",
+                  "mcp",
+                  "mcp-server",
+                  "mcp-tools",
+                  "model-context-protocol",
+                  "openai",
+                  "playwright",
+                  "qa-automation"
+                ]
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
             }
@@ -74,12 +124,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "All your PRs in one place. CI status, unresolved comments, deployments, and sound alerts — right from your browser toolbar. Free Chrome extension by DeployHQ.",
+                "homepage": "https://www.deployhq.com/?utm_source=pr-radar&utm_medium=github&utm_campaign=repo",
                 "id": 1211327237,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-22T05:03:49Z",
+                "open_issues": 7,
                 "owner": "deployhq",
                 "repo": "pr-radar",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "bitbucket",
+                  "chrome-extension",
+                  "cicd",
+                  "code-review",
+                  "deployhq",
+                  "developer-tools",
+                  "github",
+                  "gitlab",
+                  "notifications",
+                  "open-source",
+                  "pull-requests"
+                ]
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
             }
@@ -97,12 +164,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of awesome beginners-friendly projects.",
+                "homepage": null,
                 "id": 44882201,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-07-25T07:00:20Z",
+                "open_issues": 148,
                 "owner": "MunGell",
                 "repo": "awesome-for-beginners",
-                "stars": 88804
+                "stars": 88806,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "beginner-project",
+                  "beginners-friendly",
+                  "list"
+                ]
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
             }
@@ -120,12 +198,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of 20,000+ hours and 200+ free courses with certificates in IT, CS, Design and Business.",
+                "homepage": "https://panx.io/awesome-certificates/",
                 "id": 324033106,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-06-30T15:46:25Z",
+                "open_issues": 47,
                 "owner": "PanXProject",
                 "repo": "awesome-certificates",
-                "stars": 5612
+                "stars": 5612,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "badges",
+                  "career",
+                  "certificate",
+                  "certificates",
+                  "certifications",
+                  "courses",
+                  "free",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
             },
@@ -136,12 +230,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":books: List of awesome university courses for learning Computer Science!",
+                "homepage": null,
                 "id": 26689598,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-05-04T12:49:34Z",
+                "open_issues": 65,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70726
+                "stars": 70730,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "computer-science",
+                  "courses"
+                ]
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
             },
@@ -152,12 +256,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "List of Computer Science courses with video lectures.",
+                "homepage": null,
                 "id": 71583602,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-26T13:55:35Z",
+                "open_issues": 2,
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 83196
+                "stars": 83197,
+                "topics": [
+                  "algorithms",
+                  "bioinformatics",
+                  "computational-biology",
+                  "computational-physics",
+                  "computer-architecture",
+                  "computer-science",
+                  "computer-vision",
+                  "database-systems",
+                  "databases",
+                  "deep-learning",
+                  "embedded-systems",
+                  "machine-learning",
+                  "quantum-computing",
+                  "reinforcement-learning",
+                  "robotics",
+                  "security",
+                  "systems",
+                  "web-development"
+                ]
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
             }
@@ -175,12 +303,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lucene query parser generating ElasticSearch queries  and more !",
+                "homepage": null,
                 "id": 49724057,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-14T00:02:33Z",
+                "open_issues": 19,
                 "owner": "jurismarches",
                 "repo": "luqum",
-                "stars": 202
+                "stars": 202,
+                "topics": [
+                  "elasticsearch",
+                  "lucene",
+                  "parser",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
             }
@@ -198,12 +336,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AeroFTP is a Cross-platform desktop client for FTP, FTPS, SFTP, WebDAV, S3-compatible storage, GitHub, and Cloud providers, built with Rust 🦀 (Tauri) + React",
+                "homepage": "https://www.aeroftp.app",
                 "id": 1119622081,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-29T02:04:12Z",
+                "open_issues": 14,
                 "owner": "axpdev-lab",
                 "repo": "aeroftp",
-                "stars": 226
+                "stars": 226,
+                "topics": [
+                  "cloud-storage",
+                  "cross-platform",
+                  "dropbox",
+                  "encryption",
+                  "file-manager",
+                  "file-transfer",
+                  "ftp",
+                  "ftp-client",
+                  "ftps",
+                  "google-drive",
+                  "i18n",
+                  "onedrive",
+                  "open-source",
+                  "react",
+                  "rust",
+                  "s3",
+                  "sftp",
+                  "tauri",
+                  "typescript",
+                  "webdav"
+                ]
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
             },
@@ -214,12 +378,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lucene query parser generating ElasticSearch queries  and more !",
+                "homepage": null,
                 "id": 49724057,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-14T00:02:33Z",
+                "open_issues": 19,
                 "owner": "jurismarches",
                 "repo": "luqum",
-                "stars": 202
+                "stars": 202,
+                "topics": [
+                  "elasticsearch",
+                  "lucene",
+                  "parser",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
             },
@@ -230,12 +404,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "All your PRs in one place. CI status, unresolved comments, deployments, and sound alerts — right from your browser toolbar. Free Chrome extension by DeployHQ.",
+                "homepage": "https://www.deployhq.com/?utm_source=pr-radar&utm_medium=github&utm_campaign=repo",
                 "id": 1211327237,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-22T05:03:49Z",
+                "open_issues": 7,
                 "owner": "deployhq",
                 "repo": "pr-radar",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "bitbucket",
+                  "chrome-extension",
+                  "cicd",
+                  "code-review",
+                  "deployhq",
+                  "developer-tools",
+                  "github",
+                  "gitlab",
+                  "notifications",
+                  "open-source",
+                  "pull-requests"
+                ]
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
             }
@@ -253,12 +444,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of 20,000+ hours and 200+ free courses with certificates in IT, CS, Design and Business.",
+                "homepage": "https://panx.io/awesome-certificates/",
                 "id": 324033106,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-06-30T15:46:25Z",
+                "open_issues": 47,
                 "owner": "PanXProject",
                 "repo": "awesome-certificates",
-                "stars": 5612
+                "stars": 5612,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "badges",
+                  "career",
+                  "certificate",
+                  "certificates",
+                  "certifications",
+                  "courses",
+                  "free",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
             },
@@ -269,12 +476,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":books: List of awesome university courses for learning Computer Science!",
+                "homepage": null,
                 "id": 26689598,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-05-04T12:49:34Z",
+                "open_issues": 65,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70726
+                "stars": 70730,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "computer-science",
+                  "courses"
+                ]
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
             },
@@ -285,12 +502,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Berry free react material-ui admin template for easing and faster web development.",
+                "homepage": "https://berrydashboard.com/free/",
                 "id": 363574334,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-16T12:57:43Z",
+                "open_issues": 32,
                 "owner": "codedthemes",
                 "repo": "berry-free-react-admin-template",
-                "stars": 2184
+                "stars": 2184,
+                "topics": [
+                  "berry-react-template",
+                  "dashboard-templates",
+                  "freeadmintemplate",
+                  "hacktoberfest",
+                  "javascript-applications",
+                  "material-design",
+                  "material-theme",
+                  "material-ui",
+                  "mui-v7",
+                  "react",
+                  "react-19",
+                  "react-dashboard",
+                  "react-remix",
+                  "react-template",
+                  "react-theme",
+                  "reactjs",
+                  "remix",
+                  "remix-run"
+                ]
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
             },
@@ -301,12 +542,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CSS stylesheet to quickly highlight a11y concerns.",
+                "homepage": "http://checka11y.jackdomleo.dev/",
                 "id": 297905776,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2025-10-20T21:10:57Z",
+                "open_issues": 1,
                 "owner": "jackdomleo7",
                 "repo": "Checka11y.css",
-                "stars": 445
+                "stars": 445,
+                "topics": [
+                  "a11y",
+                  "a11y-testing",
+                  "accessibility",
+                  "hacktoberfest",
+                  "npm-package"
+                ]
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
             },
@@ -317,12 +569,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "List of Computer Science courses with video lectures.",
+                "homepage": null,
                 "id": 71583602,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-26T13:55:35Z",
+                "open_issues": 2,
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 83196
+                "stars": 83197,
+                "topics": [
+                  "algorithms",
+                  "bioinformatics",
+                  "computational-biology",
+                  "computational-physics",
+                  "computer-architecture",
+                  "computer-science",
+                  "computer-vision",
+                  "database-systems",
+                  "databases",
+                  "deep-learning",
+                  "embedded-systems",
+                  "machine-learning",
+                  "quantum-computing",
+                  "reinforcement-learning",
+                  "robotics",
+                  "security",
+                  "systems",
+                  "web-development"
+                ]
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
             }
@@ -336,15 +612,36 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:55:34.808Z",
+    "last_updated": "2026-08-29T04:34:40.781Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collaborative list of resources for developers",
+      "homepage": "https://devresourc.es",
       "id": 332861272,
       "language": "TypeScript",
+      "license": "MIT",
       "last_commit": "2026-08-27T19:07:45Z",
+      "open_issues": 35,
       "owner": "marcelscruz",
       "repo": "dev-resources",
-      "stars": 1332
+      "stars": 1332,
+      "topics": [
+        "assets",
+        "awesome",
+        "awesome-list",
+        "courses",
+        "design",
+        "dev-resources",
+        "development",
+        "hacktoberfest",
+        "information",
+        "infrastructure",
+        "jobs",
+        "programming",
+        "public-apis",
+        "resources",
+        "tools"
+      ]
     },
     "original_repository_sha": "ae402109add6b8764549057cc23978cf07ce6da4",
     "enhanced_repository": "enhansome/enhansome-dev-resources",
