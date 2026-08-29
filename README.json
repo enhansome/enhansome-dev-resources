@@ -84,7 +84,7 @@
                 "open_issues": 0,
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 913,
+                "stars": 934,
                 "topics": [
                   "ai-agents",
                   "ai-testing",
@@ -170,10 +170,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-07-25T07:00:20Z",
-                "open_issues": 148,
+                "open_issues": 149,
                 "owner": "MunGell",
                 "repo": "awesome-for-beginners",
-                "stars": 88806,
+                "stars": 88823,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -207,7 +207,7 @@
                 "open_issues": 47,
                 "owner": "PanXProject",
                 "repo": "awesome-certificates",
-                "stars": 5612,
+                "stars": 5618,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -239,7 +239,7 @@
                 "open_issues": 65,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70730,
+                "stars": 70752,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -261,11 +261,11 @@
                 "id": 71583602,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-08-26T13:55:35Z",
+                "last_commit": "2026-08-29T18:55:06Z",
                 "open_issues": 2,
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 83197,
+                "stars": 83225,
                 "topics": [
                   "algorithms",
                   "bioinformatics",
@@ -341,8 +341,8 @@
                 "id": 1119622081,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-29T02:04:12Z",
-                "open_issues": 14,
+                "last_commit": "2026-08-29T22:34:52Z",
+                "open_issues": 17,
                 "owner": "axpdev-lab",
                 "repo": "aeroftp",
                 "stars": 226,
@@ -453,7 +453,7 @@
                 "open_issues": 47,
                 "owner": "PanXProject",
                 "repo": "awesome-certificates",
-                "stars": 5612,
+                "stars": 5618,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -485,7 +485,7 @@
                 "open_issues": 65,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70730,
+                "stars": 70752,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -574,11 +574,11 @@
                 "id": 71583602,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-08-26T13:55:35Z",
+                "last_commit": "2026-08-29T18:55:06Z",
                 "open_issues": 2,
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 83197,
+                "stars": 83225,
                 "topics": [
                   "algorithms",
                   "bioinformatics",
@@ -612,7 +612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:34:40.781Z",
+    "last_updated": "2026-08-29T22:49:23.360Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of resources for developers",
@@ -620,7 +620,7 @@
       "id": 332861272,
       "language": "TypeScript",
       "license": "MIT",
-      "last_commit": "2026-08-27T19:07:45Z",
+      "last_commit": "2026-08-29T10:07:03Z",
       "open_issues": 35,
       "owner": "marcelscruz",
       "repo": "dev-resources",
@@ -643,7 +643,7 @@
         "tools"
       ]
     },
-    "original_repository_sha": "ae402109add6b8764549057cc23978cf07ce6da4",
+    "original_repository_sha": "bea7fe6123c5f8ccbe1f9852e01e705ab508ce15",
     "enhanced_repository": "enhansome/enhansome-dev-resources",
     "enhanced_repository_description": null,
     "title": "Awesome dev resources with stars"
