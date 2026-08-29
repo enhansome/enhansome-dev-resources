@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-03T22:10:04Z",
                 "owner": "brunopulis",
                 "repo": "awesome-a11y",
-                "stars": 1985
+                "stars": 1986
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
             },
@@ -56,7 +56,7 @@
                 "last_commit": "2026-08-03T18:44:59Z",
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 871
+                "stars": 910
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
             }
@@ -102,7 +102,7 @@
                 "last_commit": "2026-07-25T07:00:20Z",
                 "owner": "MunGell",
                 "repo": "awesome-for-beginners",
-                "stars": 88781
+                "stars": 88804
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
             }
@@ -125,7 +125,7 @@
                 "last_commit": "2026-06-30T15:46:25Z",
                 "owner": "PanXProject",
                 "repo": "awesome-certificates",
-                "stars": 5611
+                "stars": 5612
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
             },
@@ -141,7 +141,7 @@
                 "last_commit": "2023-05-04T12:49:34Z",
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70705
+                "stars": 70726
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
             },
@@ -157,7 +157,7 @@
                 "last_commit": "2026-08-26T13:55:35Z",
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 83188
+                "stars": 83196
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
             }
@@ -200,10 +200,10 @@
                 "archived": false,
                 "id": 1119622081,
                 "language": "Rust",
-                "last_commit": "2026-08-27T19:39:21Z",
+                "last_commit": "2026-08-29T02:04:12Z",
                 "owner": "axpdev-lab",
                 "repo": "aeroftp",
-                "stars": 225
+                "stars": 226
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
             },
@@ -258,7 +258,7 @@
                 "last_commit": "2026-06-30T15:46:25Z",
                 "owner": "PanXProject",
                 "repo": "awesome-certificates",
-                "stars": 5611
+                "stars": 5612
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
             },
@@ -274,7 +274,7 @@
                 "last_commit": "2023-05-04T12:49:34Z",
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70705
+                "stars": 70726
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
             },
@@ -322,7 +322,7 @@
                 "last_commit": "2026-08-26T13:55:35Z",
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 83188
+                "stars": 83196
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
             }
@@ -336,7 +336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T04:55:40.576Z",
+    "last_updated": "2026-08-29T02:55:34.808Z",
     "original_repository_info": {
       "archived": false,
       "id": 332861272,
