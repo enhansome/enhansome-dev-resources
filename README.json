@@ -170,10 +170,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-07-25T07:00:20Z",
-                "open_issues": 150,
+                "open_issues": 151,
                 "owner": "MunGell",
                 "repo": "awesome-for-beginners",
-                "stars": 88853,
+                "stars": 88886,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -207,7 +207,7 @@
                 "open_issues": 47,
                 "owner": "PanXProject",
                 "repo": "awesome-certificates",
-                "stars": 5625,
+                "stars": 5633,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -239,7 +239,7 @@
                 "open_issues": 65,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70782,
+                "stars": 70798,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -262,10 +262,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-08-30T19:20:44Z",
-                "open_issues": 2,
+                "open_issues": 4,
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 83283,
+                "stars": 83352,
                 "topics": [
                   "algorithms",
                   "bioinformatics",
@@ -341,7 +341,7 @@
                 "id": 1119622081,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-30T21:16:10Z",
+                "last_commit": "2026-09-01T00:01:53Z",
                 "open_issues": 17,
                 "owner": "axpdev-lab",
                 "repo": "aeroftp",
@@ -453,7 +453,7 @@
                 "open_issues": 47,
                 "owner": "PanXProject",
                 "repo": "awesome-certificates",
-                "stars": 5625,
+                "stars": 5633,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -485,7 +485,7 @@
                 "open_issues": 65,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70782,
+                "stars": 70798,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -575,10 +575,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-08-30T19:20:44Z",
-                "open_issues": 2,
+                "open_issues": 4,
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 83283,
+                "stars": 83352,
                 "topics": [
                   "algorithms",
                   "bioinformatics",
@@ -612,7 +612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T22:57:01.340Z",
+    "last_updated": "2026-09-01T00:08:03.367Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of resources for developers",
@@ -620,11 +620,11 @@
       "id": 332861272,
       "language": "TypeScript",
       "license": "MIT",
-      "last_commit": "2026-08-30T05:45:30Z",
-      "open_issues": 35,
+      "last_commit": "2026-08-31T14:16:32Z",
+      "open_issues": 38,
       "owner": "marcelscruz",
       "repo": "dev-resources",
-      "stars": 1331,
+      "stars": 1330,
       "topics": [
         "assets",
         "awesome",
@@ -643,7 +643,7 @@
         "tools"
       ]
     },
-    "original_repository_sha": "75c251f1e6dae8b5d96a24607605993e85c9f7e6",
+    "original_repository_sha": "2ac8bce2548534661dea9b1b03537a26472d7830",
     "enhanced_repository": "enhansome/enhansome-dev-resources",
     "enhanced_repository_description": null,
     "title": "Awesome dev resources with stars"
