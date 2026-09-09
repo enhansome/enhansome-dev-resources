@@ -18,7 +18,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-08-03T22:10:04Z",
-                "open_issues": 71,
+                "open_issues": 72,
                 "owner": "brunopulis",
                 "repo": "awesome-a11y",
                 "stars": 1984,
@@ -84,7 +84,7 @@
                 "open_issues": 0,
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 904,
+                "stars": 908,
                 "topics": [
                   "ai-agents",
                   "ai-testing",
@@ -173,7 +173,7 @@
                 "open_issues": 152,
                 "owner": "MunGell",
                 "repo": "awesome-for-beginners",
-                "stars": 89088,
+                "stars": 89121,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -204,10 +204,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-06-30T15:46:25Z",
-                "open_issues": 48,
+                "open_issues": 49,
                 "owner": "PanXProject",
                 "repo": "awesome-certificates",
-                "stars": 5700,
+                "stars": 5702,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -239,7 +239,7 @@
                 "open_issues": 64,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70979,
+                "stars": 71011,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -265,7 +265,7 @@
                 "open_issues": 4,
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 83448,
+                "stars": 83456,
                 "topics": [
                   "algorithms",
                   "bioinformatics",
@@ -341,8 +341,8 @@
                 "id": 1119622081,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-08T20:55:03Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-09T20:52:56Z",
+                "open_issues": 12,
                 "owner": "axpdev-lab",
                 "repo": "aeroftp",
                 "stars": 233,
@@ -399,6 +399,41 @@
             },
             {
               "node_type": "item",
+              "title": "MailKite SaaS Starter",
+              "description": "MailKite SaaS Starter MIT-licensed Next.js SaaS starter: self-contained auth (OAuth + email/password, no auth vendor), Stripe subscriptions, teams, Postgres/Drizzle, dark-first UI. nextjs, saas, boilerplate, starter kit, stripe, drizzle, authentication, typescript",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "NextJS SaaS Starter Template",
+                "homepage": "https://saas-startup.mailkite.dev/",
+                "id": 1301310398,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-09-09T18:26:14Z",
+                "open_issues": 71,
+                "owner": "mailkite",
+                "repo": "saas-startup",
+                "stars": 0,
+                "topics": [
+                  "drizzle-orm",
+                  "mailkite",
+                  "nextjs",
+                  "nextjs15",
+                  "oauth",
+                  "open-source",
+                  "postgresql",
+                  "saas-boilerplate",
+                  "saas-starter",
+                  "stripe",
+                  "tailwindcss",
+                  "template",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-09-09T22:48:11.801Z"
+            },
+            {
+              "node_type": "item",
               "title": "PR Radar",
               "description": "PR Radar Free, open-source browser extension for a unified PR dashboard across GitHub, GitLab, and Bitbucket. CI status, review tracking, notifications, and keyboard shortcuts. pull requests, code review, CI, GitHub, GitLab, Bitbucket",
               "children": [],
@@ -450,10 +485,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-06-30T15:46:25Z",
-                "open_issues": 48,
+                "open_issues": 49,
                 "owner": "PanXProject",
                 "repo": "awesome-certificates",
-                "stars": 5700,
+                "stars": 5702,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -485,7 +520,7 @@
                 "open_issues": 64,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70979,
+                "stars": 71011,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -507,8 +542,8 @@
                 "id": 363574334,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-16T12:57:43Z",
-                "open_issues": 33,
+                "last_commit": "2026-09-09T10:49:52Z",
+                "open_issues": 34,
                 "owner": "codedthemes",
                 "repo": "berry-free-react-admin-template",
                 "stars": 2181,
@@ -578,7 +613,7 @@
                 "open_issues": 4,
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 83448,
+                "stars": 83456,
                 "topics": [
                   "algorithms",
                   "bioinformatics",
@@ -612,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T23:00:56.727Z",
+    "last_updated": "2026-09-09T22:48:11.801Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of resources for developers",
@@ -620,11 +655,11 @@
       "id": 332861272,
       "language": "TypeScript",
       "license": "MIT",
-      "last_commit": "2026-09-08T14:43:25Z",
-      "open_issues": 5,
+      "last_commit": "2026-09-09T21:07:50Z",
+      "open_issues": 6,
       "owner": "marcelscruz",
       "repo": "dev-resources",
-      "stars": 1333,
+      "stars": 1332,
       "topics": [
         "assets",
         "awesome",
@@ -643,7 +678,7 @@
         "tools"
       ]
     },
-    "original_repository_sha": "5fe4688c090e5cb6aef6fb32f328ae00624dc20f",
+    "original_repository_sha": "8860f4281427edf4dda987143b48e91bebb24415",
     "enhanced_repository": "enhansome/enhansome-dev-resources",
     "enhanced_repository_description": null,
     "title": "Awesome dev resources with stars"
