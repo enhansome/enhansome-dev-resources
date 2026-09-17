@@ -84,7 +84,7 @@
                 "open_issues": 0,
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 911,
+                "stars": 913,
                 "topics": [
                   "ai-agents",
                   "ai-testing",
@@ -173,7 +173,7 @@
                 "open_issues": 152,
                 "owner": "MunGell",
                 "repo": "awesome-for-beginners",
-                "stars": 89321,
+                "stars": 89352,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -207,7 +207,7 @@
                 "open_issues": 49,
                 "owner": "PanXProject",
                 "repo": "awesome-certificates",
-                "stars": 5733,
+                "stars": 5737,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -239,7 +239,7 @@
                 "open_issues": 64,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 71201,
+                "stars": 71224,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -261,11 +261,11 @@
                 "id": 71583602,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-11T14:31:05Z",
+                "last_commit": "2026-09-17T16:11:45Z",
                 "open_issues": 4,
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 83514,
+                "stars": 83524,
                 "topics": [
                   "algorithms",
                   "bioinformatics",
@@ -341,11 +341,11 @@
                 "id": 1119622081,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-16T22:45:49Z",
+                "last_commit": "2026-09-17T22:53:41Z",
                 "open_issues": 11,
                 "owner": "axpdev-lab",
                 "repo": "aeroftp",
-                "stars": 241,
+                "stars": 242,
                 "topics": [
                   "cloud-storage",
                   "cross-platform",
@@ -488,7 +488,7 @@
                 "open_issues": 49,
                 "owner": "PanXProject",
                 "repo": "awesome-certificates",
-                "stars": 5733,
+                "stars": 5737,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -520,7 +520,7 @@
                 "open_issues": 64,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 71201,
+                "stars": 71224,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -609,11 +609,11 @@
                 "id": 71583602,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-11T14:31:05Z",
+                "last_commit": "2026-09-17T16:11:45Z",
                 "open_issues": 4,
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 83514,
+                "stars": 83524,
                 "topics": [
                   "algorithms",
                   "bioinformatics",
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T23:17:32.195Z",
+    "last_updated": "2026-09-17T23:08:42.881Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of resources for developers",
