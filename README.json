@@ -21,7 +21,7 @@
                 "open_issues": 88,
                 "owner": "brunopulis",
                 "repo": "awesome-a11y",
-                "stars": 1990,
+                "stars": 1991,
                 "topics": [
                   "a11y",
                   "accessibility",
@@ -84,7 +84,7 @@
                 "open_issues": 0,
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 893,
+                "stars": 894,
                 "topics": [
                   "ai-agents",
                   "ai-testing",
@@ -109,6 +109,48 @@
                 ]
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
+            },
+            {
+              "node_type": "item",
+              "title": "YYLO",
+              "description": "YYLO Command-line orchestrator for coding agents with repeatable workflows, receipt-backed repository changes, and typed task, validation, and merge boundaries. ai, coding agents, cli, orchestration, terminal, workflows, developer tools",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "YYLO (why-lo): AI coding-agent orchestration CLI with equivalent yylo and yy launchers.",
+                "homepage": "https://yylo.dev",
+                "id": 1129206072,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-01T06:25:40Z",
+                "open_issues": 10,
+                "owner": "yylo-dev",
+                "repo": "yylo",
+                "stars": 62,
+                "topics": [
+                  "agentic-coding-approved",
+                  "agentic-coding-rules",
+                  "agentic-coding-tool",
+                  "agentic-coding-tools",
+                  "agentic-coding-workflow",
+                  "ai-agent",
+                  "ai-native-development",
+                  "aider",
+                  "autonomous-agents",
+                  "claude-code",
+                  "coding-agent",
+                  "developer-tools",
+                  "developer-tools-ai-agent",
+                  "developer-tools-productivity",
+                  "git-workflow",
+                  "local-first",
+                  "pi-agent",
+                  "ralph-loop",
+                  "ralph-wiggum",
+                  "yylo"
+                ]
+              },
+              "first_seen": "2026-10-03T00:01:34.919Z"
             }
           ],
           "description": "⬆ Back to Index",
@@ -173,7 +215,7 @@
                 "open_issues": 144,
                 "owner": "MunGell",
                 "repo": "awesome-for-beginners",
-                "stars": 89774,
+                "stars": 89803,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -239,7 +281,7 @@
                 "open_issues": 65,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 71525,
+                "stars": 71541,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -341,11 +383,11 @@
                 "id": 1119622081,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-01T22:33:05Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-02T23:57:07Z",
+                "open_issues": 17,
                 "owner": "axpdev-lab",
                 "repo": "aeroftp",
-                "stars": 250,
+                "stars": 249,
                 "topics": [
                   "cloud-storage",
                   "cross-platform",
@@ -464,6 +506,48 @@
                 ]
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
+            },
+            {
+              "node_type": "item",
+              "title": "YYLO",
+              "description": "YYLO Command-line orchestrator for coding agents with repeatable workflows, receipt-backed repository changes, and typed task, validation, and merge boundaries. ai, coding agents, cli, orchestration, terminal, workflows, developer tools",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "YYLO (why-lo): AI coding-agent orchestration CLI with equivalent yylo and yy launchers.",
+                "homepage": "https://yylo.dev",
+                "id": 1129206072,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-01T06:25:40Z",
+                "open_issues": 10,
+                "owner": "yylo-dev",
+                "repo": "yylo",
+                "stars": 62,
+                "topics": [
+                  "agentic-coding-approved",
+                  "agentic-coding-rules",
+                  "agentic-coding-tool",
+                  "agentic-coding-tools",
+                  "agentic-coding-workflow",
+                  "ai-agent",
+                  "ai-native-development",
+                  "aider",
+                  "autonomous-agents",
+                  "claude-code",
+                  "coding-agent",
+                  "developer-tools",
+                  "developer-tools-ai-agent",
+                  "developer-tools-productivity",
+                  "git-workflow",
+                  "local-first",
+                  "pi-agent",
+                  "ralph-loop",
+                  "ralph-wiggum",
+                  "yylo"
+                ]
+              },
+              "first_seen": "2026-10-03T00:01:34.919Z"
             }
           ],
           "description": "⬆ Back to Index",
@@ -520,7 +604,7 @@
                 "open_issues": 65,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 71525,
+                "stars": 71541,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -647,7 +731,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T00:16:15.850Z",
+    "last_updated": "2026-10-03T00:01:34.919Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of resources for developers",
@@ -655,7 +739,7 @@
       "id": 332861272,
       "language": "TypeScript",
       "license": "MIT",
-      "last_commit": "2026-10-01T18:07:13Z",
+      "last_commit": "2026-10-02T04:04:07Z",
       "open_issues": 24,
       "owner": "marcelscruz",
       "repo": "dev-resources",
@@ -678,7 +762,7 @@
         "tools"
       ]
     },
-    "original_repository_sha": "241c266fa169f934f21b66e0253d42a9dc0821bb",
+    "original_repository_sha": "ad844d7457dacb38fd4b9c26d6f0f60fb314003a",
     "enhanced_repository": "enhansome/enhansome-dev-resources",
     "enhanced_repository_description": null,
     "title": "Awesome dev resources with stars"
