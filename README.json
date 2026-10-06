@@ -21,7 +21,7 @@
                 "open_issues": 90,
                 "owner": "brunopulis",
                 "repo": "awesome-a11y",
-                "stars": 1991,
+                "stars": 1990,
                 "topics": [
                   "a11y",
                   "accessibility",
@@ -215,7 +215,7 @@
                 "open_issues": 144,
                 "owner": "MunGell",
                 "repo": "awesome-for-beginners",
-                "stars": 89904,
+                "stars": 89923,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -249,7 +249,7 @@
                 "open_issues": 50,
                 "owner": "PanXProject",
                 "repo": "awesome-certificates",
-                "stars": 5818,
+                "stars": 5820,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -281,7 +281,7 @@
                 "open_issues": 65,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 71620,
+                "stars": 71636,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -303,11 +303,11 @@
                 "id": 71583602,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-27T16:53:08Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-06T04:49:17Z",
+                "open_issues": 4,
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 83623,
+                "stars": 83626,
                 "topics": [
                   "algorithms",
                   "bioinformatics",
@@ -383,7 +383,7 @@
                 "id": 1119622081,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-05T21:41:05Z",
+                "last_commit": "2026-10-06T05:41:22Z",
                 "open_issues": 7,
                 "owner": "axpdev-lab",
                 "repo": "aeroftp",
@@ -451,8 +451,8 @@
                 "id": 1301310398,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-05T21:18:53Z",
-                "open_issues": 81,
+                "last_commit": "2026-10-06T10:20:22Z",
+                "open_issues": 82,
                 "owner": "mailkite",
                 "repo": "saas-startup",
                 "stars": 0,
@@ -572,7 +572,7 @@
                 "open_issues": 50,
                 "owner": "PanXProject",
                 "repo": "awesome-certificates",
-                "stars": 5818,
+                "stars": 5820,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -604,7 +604,7 @@
                 "open_issues": 65,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 71620,
+                "stars": 71636,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -693,11 +693,11 @@
                 "id": 71583602,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-27T16:53:08Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-06T04:49:17Z",
+                "open_issues": 4,
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 83623,
+                "stars": 83626,
                 "topics": [
                   "algorithms",
                   "bioinformatics",
@@ -722,16 +722,553 @@
               "first_seen": "2026-08-28T04:55:40.576Z"
             }
           ],
-          "description": null,
+          "description": "⬆ Back to Index",
           "node_type": "group",
           "title": "Programming"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AeroFTP",
+              "description": "AeroFTP Open-source multi-protocol file transfer client supporting 22 protocols (FTP, SFTP, WebDAV, S3, Google Drive, Dropbox and more), with encrypted vaults, a built-in terminal and an AI assistant. Built w... ftp, sftp, webdav, s3, file transfer, cloud storage, encryption, tauri, rust",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "AeroFTP is a Cross-platform desktop client for FTP, FTPS, SFTP, WebDAV, S3-compatible storage, GitHub, and Cloud providers, built with Rust 🦀 (Tauri) + React",
+                "homepage": "https://www.aeroftp.app",
+                "id": 1119622081,
+                "language": "Rust",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-06T05:41:22Z",
+                "open_issues": 7,
+                "owner": "axpdev-lab",
+                "repo": "aeroftp",
+                "stars": 251,
+                "topics": [
+                  "cloud-storage",
+                  "cross-platform",
+                  "dropbox",
+                  "encryption",
+                  "file-manager",
+                  "file-transfer",
+                  "ftp",
+                  "ftp-client",
+                  "ftps",
+                  "google-drive",
+                  "i18n",
+                  "onedrive",
+                  "open-source",
+                  "react",
+                  "rust",
+                  "s3",
+                  "sftp",
+                  "tauri",
+                  "typescript",
+                  "webdav"
+                ]
+              },
+              "first_seen": "2026-08-28T04:55:40.576Z"
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Security"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MailKite SaaS Starter",
+              "description": "MailKite SaaS Starter MIT-licensed Next.js SaaS starter: self-contained auth (OAuth + email/password, no auth vendor), Stripe subscriptions, teams, Postgres/Drizzle, dark-first UI. nextjs, saas, boilerplate, starter kit, stripe, drizzle, authentication, typescript",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "NextJS SaaS Starter Template",
+                "homepage": "https://saas-startup.mailkite.dev/",
+                "id": 1301310398,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-10-06T10:20:22Z",
+                "open_issues": 82,
+                "owner": "mailkite",
+                "repo": "saas-startup",
+                "stars": 0,
+                "topics": [
+                  "drizzle-orm",
+                  "mailkite",
+                  "nextjs",
+                  "nextjs15",
+                  "oauth",
+                  "open-source",
+                  "postgresql",
+                  "saas-boilerplate",
+                  "saas-starter",
+                  "stripe",
+                  "tailwindcss",
+                  "template",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-09-09T22:48:11.801Z"
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Startup"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Berry Free React Material Admin Template",
+              "description": "Berry Free React Material Admin Template Berry is a creative free React admin template build using the Material-UI. It is meant to be the best User Experience with highly customizable feature-riched pages. It is a complete game-changer React...",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Berry free react material-ui admin template for easing and faster web development.",
+                "homepage": "https://berrydashboard.com/free/",
+                "id": 363574334,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-09-29T16:19:47Z",
+                "open_issues": 8,
+                "owner": "codedthemes",
+                "repo": "berry-free-react-admin-template",
+                "stars": 2190,
+                "topics": [
+                  "berry-react-template",
+                  "dashboard-templates",
+                  "freeadmintemplate",
+                  "hacktoberfest",
+                  "javascript-applications",
+                  "material-design",
+                  "material-theme",
+                  "material-ui",
+                  "mui-v7",
+                  "react",
+                  "react-19",
+                  "react-dashboard",
+                  "react-remix",
+                  "react-template",
+                  "react-theme",
+                  "reactjs",
+                  "remix",
+                  "remix-run"
+                ]
+              },
+              "first_seen": "2026-08-28T04:55:40.576Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MailKite SaaS Starter",
+              "description": "MailKite SaaS Starter MIT-licensed Next.js SaaS starter: self-contained auth (OAuth + email/password, no auth vendor), Stripe subscriptions, teams, Postgres/Drizzle, dark-first UI. nextjs, saas, boilerplate, starter kit, stripe, drizzle, authentication, typescript",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "NextJS SaaS Starter Template",
+                "homepage": "https://saas-startup.mailkite.dev/",
+                "id": 1301310398,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-10-06T10:20:22Z",
+                "open_issues": 82,
+                "owner": "mailkite",
+                "repo": "saas-startup",
+                "stars": 0,
+                "topics": [
+                  "drizzle-orm",
+                  "mailkite",
+                  "nextjs",
+                  "nextjs15",
+                  "oauth",
+                  "open-source",
+                  "postgresql",
+                  "saas-boilerplate",
+                  "saas-starter",
+                  "stripe",
+                  "tailwindcss",
+                  "template",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-09-09T22:48:11.801Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Materio Free MUI React NextJS Admin Template",
+              "description": "Materio Free MUI React NextJS Admin Template Most Powerful & Comprehensive Open Source and Free MUI React NextJS Admin Dashboard Template built for developers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An enterprise-grade Next.js admin dashboard template. Made with developer experience first: Next.js v14 (App Router), Material UI (MUI), Tailwind CSS, TypeScript, ESLint, Prettier, VSCode Configs !! 🚀",
+                "homepage": "https://themeselection.com/item/materio-free-mui-nextjs-admin-template",
+                "id": 469671359,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-03-20T05:51:19Z",
+                "open_issues": 1,
+                "owner": "themeselection",
+                "repo": "materio-mui-nextjs-admin-template-free",
+                "stars": 1968,
+                "topics": [
+                  "admin-dashboard",
+                  "admin-dashboard-template",
+                  "admin-template",
+                  "boilerplate",
+                  "dashboard-template",
+                  "free-admin-dashboard",
+                  "free-admin-template",
+                  "freebies",
+                  "javascript",
+                  "material-ui",
+                  "mui",
+                  "nextjs",
+                  "nextjs-admin",
+                  "react",
+                  "reactjs",
+                  "starter-kit",
+                  "starter-template",
+                  "tailwaind-css",
+                  "tailwind",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-10-06T11:09:08.191Z"
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Template"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gitty",
+              "description": "gitty Git workflow CLI tool. Stage, commit, and push in one command, with selective line commits, interactive conflict resolution, and history rewriting. git, cli, workflow, terminal, commit, golang",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "Gitty - awesome CLI for make default git more simple.",
+                "homepage": null,
+                "id": 1196421998,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2026-04-19T10:45:50Z",
+                "open_issues": 0,
+                "owner": "Omibranch",
+                "repo": "gitty",
+                "stars": 28,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T11:09:08.191Z"
+            },
+            {
+              "node_type": "item",
+              "title": "YYLO",
+              "description": "YYLO Command-line orchestrator for coding agents with repeatable workflows, receipt-backed repository changes, and typed task, validation, and merge boundaries. ai, coding agents, cli, orchestration, terminal, workflows, developer tools",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "YYLO (why-lo): AI coding-agent orchestration CLI with equivalent yylo and yy launchers.",
+                "homepage": "https://yylo.dev",
+                "id": 1129206072,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-03T18:32:14Z",
+                "open_issues": 10,
+                "owner": "yylo-dev",
+                "repo": "yylo",
+                "stars": 63,
+                "topics": [
+                  "agentic-coding-approved",
+                  "agentic-coding-rules",
+                  "agentic-coding-tool",
+                  "agentic-coding-tools",
+                  "agentic-coding-workflow",
+                  "ai-agent",
+                  "ai-native-development",
+                  "aider",
+                  "autonomous-agents",
+                  "claude-code",
+                  "coding-agent",
+                  "developer-tools",
+                  "developer-tools-ai-agent",
+                  "developer-tools-productivity",
+                  "git-workflow",
+                  "local-first",
+                  "pi-agent",
+                  "ralph-loop",
+                  "ralph-wiggum",
+                  "yylo"
+                ]
+              },
+              "first_seen": "2026-10-03T00:01:34.919Z"
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Terminal"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "agent-qa",
+              "description": "agent-qa Self-improving QA agent for web and mobile apps with natural-language tests, run memory, UI-change adaptation, and regression detection before shipping. ai, testing, qa, web, mobile, regression testing, natural language tests",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open-source self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship.",
+                "homepage": "https://vostride.com",
+                "id": 1232322871,
+                "language": "TypeScript",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-03T18:44:59Z",
+                "open_issues": 0,
+                "owner": "vostride",
+                "repo": "agent-qa",
+                "stars": 899,
+                "topics": [
+                  "ai-agents",
+                  "ai-testing",
+                  "anthropic",
+                  "autonomous-agents",
+                  "browser-automation",
+                  "chatgpt",
+                  "claude-code",
+                  "clawdbot",
+                  "codex",
+                  "developer-tools",
+                  "dsh-plugin",
+                  "end-to-end-testing",
+                  "frontend",
+                  "mcp",
+                  "mcp-server",
+                  "mcp-tools",
+                  "model-context-protocol",
+                  "openai",
+                  "playwright",
+                  "qa-automation"
+                ]
+              },
+              "first_seen": "2026-08-28T04:55:40.576Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Majestic",
+              "description": "Majestic ⚡ Zero config GUI for Jest. Contribute to Raathigesh/majestic development by creating an account on GitHub.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "⚡ Zero config GUI for Jest",
+                "homepage": null,
+                "id": 112321084,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2022-05-03T14:54:05Z",
+                "open_issues": 50,
+                "owner": "Raathigesh",
+                "repo": "majestic",
+                "stars": 7445,
+                "topics": [
+                  "developer-experience",
+                  "developer-tools",
+                  "jest",
+                  "react"
+                ]
+              },
+              "first_seen": "2026-10-06T11:09:08.191Z"
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AeroFTP",
+              "description": "AeroFTP Open-source multi-protocol file transfer client supporting 22 protocols (FTP, SFTP, WebDAV, S3, Google Drive, Dropbox and more), with encrypted vaults, a built-in terminal and an AI assistant. Built w... ftp, sftp, webdav, s3, file transfer, cloud storage, encryption, tauri, rust",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "AeroFTP is a Cross-platform desktop client for FTP, FTPS, SFTP, WebDAV, S3-compatible storage, GitHub, and Cloud providers, built with Rust 🦀 (Tauri) + React",
+                "homepage": "https://www.aeroftp.app",
+                "id": 1119622081,
+                "language": "Rust",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-06T05:41:22Z",
+                "open_issues": 7,
+                "owner": "axpdev-lab",
+                "repo": "aeroftp",
+                "stars": 251,
+                "topics": [
+                  "cloud-storage",
+                  "cross-platform",
+                  "dropbox",
+                  "encryption",
+                  "file-manager",
+                  "file-transfer",
+                  "ftp",
+                  "ftp-client",
+                  "ftps",
+                  "google-drive",
+                  "i18n",
+                  "onedrive",
+                  "open-source",
+                  "react",
+                  "rust",
+                  "s3",
+                  "sftp",
+                  "tauri",
+                  "typescript",
+                  "webdav"
+                ]
+              },
+              "first_seen": "2026-08-28T04:55:40.576Z"
+            },
+            {
+              "node_type": "item",
+              "title": "agent-qa",
+              "description": "agent-qa Self-improving QA agent for web and mobile apps with natural-language tests, run memory, UI-change adaptation, and regression detection before shipping. ai, testing, qa, web, mobile, regression testing, natural language tests",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open-source self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship.",
+                "homepage": "https://vostride.com",
+                "id": 1232322871,
+                "language": "TypeScript",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-03T18:44:59Z",
+                "open_issues": 0,
+                "owner": "vostride",
+                "repo": "agent-qa",
+                "stars": 899,
+                "topics": [
+                  "ai-agents",
+                  "ai-testing",
+                  "anthropic",
+                  "autonomous-agents",
+                  "browser-automation",
+                  "chatgpt",
+                  "claude-code",
+                  "clawdbot",
+                  "codex",
+                  "developer-tools",
+                  "dsh-plugin",
+                  "end-to-end-testing",
+                  "frontend",
+                  "mcp",
+                  "mcp-server",
+                  "mcp-tools",
+                  "model-context-protocol",
+                  "openai",
+                  "playwright",
+                  "qa-automation"
+                ]
+              },
+              "first_seen": "2026-08-28T04:55:40.576Z"
+            },
+            {
+              "node_type": "item",
+              "title": "gitty",
+              "description": "gitty Git workflow CLI tool. Stage, commit, and push in one command, with selective line commits, interactive conflict resolution, and history rewriting. git, cli, workflow, terminal, commit, golang",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "Gitty - awesome CLI for make default git more simple.",
+                "homepage": null,
+                "id": 1196421998,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2026-04-19T10:45:50Z",
+                "open_issues": 0,
+                "owner": "Omibranch",
+                "repo": "gitty",
+                "stars": 28,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T11:09:08.191Z"
+            },
+            {
+              "node_type": "item",
+              "title": "PR Radar",
+              "description": "PR Radar Free, open-source browser extension for a unified PR dashboard across GitHub, GitLab, and Bitbucket. CI status, review tracking, notifications, and keyboard shortcuts. pull requests, code review, CI, GitHub, GitLab, Bitbucket",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "All your PRs in one place. CI status, unresolved comments, deployments, and sound alerts — right from your browser toolbar. Free Chrome extension by DeployHQ.",
+                "homepage": "https://www.deployhq.com/?utm_source=pr-radar&utm_medium=github&utm_campaign=repo",
+                "id": 1211327237,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-07-22T05:03:49Z",
+                "open_issues": 7,
+                "owner": "deployhq",
+                "repo": "pr-radar",
+                "stars": 13,
+                "topics": [
+                  "bitbucket",
+                  "chrome-extension",
+                  "cicd",
+                  "code-review",
+                  "deployhq",
+                  "developer-tools",
+                  "github",
+                  "gitlab",
+                  "notifications",
+                  "open-source",
+                  "pull-requests"
+                ]
+              },
+              "first_seen": "2026-08-28T04:55:40.576Z"
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Tooling"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "reTypewriter",
+              "description": "reTypewriter Replay the steps of your changes at ease. A diff based typing simulator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Replay the steps of your changes at ease.",
+                "homepage": "https://marketplace.visualstudio.com/items?itemName=antfu.retypewriter",
+                "id": 471750063,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2025-02-12T03:35:11Z",
+                "open_issues": 2,
+                "owner": "antfu",
+                "repo": "retypewriter",
+                "stars": 755,
+                "topics": [
+                  "diff",
+                  "typewriter",
+                  "vscode-extension"
+                ]
+              },
+              "first_seen": "2026-10-06T11:09:08.191Z"
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Typing"
         }
       ],
       "title": "Index"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T01:33:20.503Z",
+    "last_updated": "2026-10-06T11:09:08.191Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of resources for developers",
@@ -739,7 +1276,7 @@
       "id": 332861272,
       "language": "TypeScript",
       "license": "MIT",
-      "last_commit": "2026-10-05T04:03:53Z",
+      "last_commit": "2026-10-06T11:06:06Z",
       "open_issues": 26,
       "owner": "marcelscruz",
       "repo": "dev-resources",
@@ -762,7 +1299,7 @@
         "tools"
       ]
     },
-    "original_repository_sha": "f097188b5dfa94a26c39a5584db4fbf03cffad7f",
+    "original_repository_sha": "5f7eb7342b9e266ffd0c3995fe1a2546cb4d05f6",
     "enhanced_repository": "enhansome/enhansome-dev-resources",
     "enhanced_repository_description": null,
     "title": "Awesome dev resources with stars"
