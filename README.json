@@ -18,10 +18,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-08-03T22:10:04Z",
-                "open_issues": 97,
+                "open_issues": 99,
                 "owner": "brunopulis",
                 "repo": "awesome-a11y",
-                "stars": 1994,
+                "stars": 1995,
                 "topics": [
                   "a11y",
                   "accessibility",
@@ -81,10 +81,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-03T18:44:59Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 903,
+                "stars": 905,
                 "topics": [
                   "ai-agents",
                   "ai-testing",
@@ -212,10 +212,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-01T14:58:51Z",
-                "open_issues": 149,
+                "open_issues": 150,
                 "owner": "MunGell",
                 "repo": "awesome-for-beginners",
-                "stars": 90208,
+                "stars": 90261,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -249,7 +249,7 @@
                 "open_issues": 51,
                 "owner": "PanXProject",
                 "repo": "awesome-certificates",
-                "stars": 5840,
+                "stars": 5846,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -281,7 +281,7 @@
                 "open_issues": 65,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 71861,
+                "stars": 71895,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -303,11 +303,11 @@
                 "id": 71583602,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-12T12:30:11Z",
+                "last_commit": "2026-10-14T12:58:51Z",
                 "open_issues": 5,
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 83673,
+                "stars": 83680,
                 "topics": [
                   "algorithms",
                   "bioinformatics",
@@ -383,11 +383,11 @@
                 "id": 1119622081,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-13T21:25:48Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-14T22:25:57Z",
+                "open_issues": 7,
                 "owner": "axpdev-lab",
                 "repo": "aeroftp",
-                "stars": 257,
+                "stars": 259,
                 "topics": [
                   "cloud-storage",
                   "cross-platform",
@@ -572,7 +572,7 @@
                 "open_issues": 51,
                 "owner": "PanXProject",
                 "repo": "awesome-certificates",
-                "stars": 5840,
+                "stars": 5846,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -604,7 +604,7 @@
                 "open_issues": 65,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 71861,
+                "stars": 71895,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -693,11 +693,11 @@
                 "id": 71583602,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-12T12:30:11Z",
+                "last_commit": "2026-10-14T12:58:51Z",
                 "open_issues": 5,
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 83673,
+                "stars": 83680,
                 "topics": [
                   "algorithms",
                   "bioinformatics",
@@ -740,11 +740,11 @@
                 "id": 1119622081,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-13T21:25:48Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-14T22:25:57Z",
+                "open_issues": 7,
                 "owner": "axpdev-lab",
                 "repo": "aeroftp",
-                "stars": 257,
+                "stars": 259,
                 "topics": [
                   "cloud-storage",
                   "cross-platform",
@@ -945,27 +945,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "gitty",
-              "description": "gitty Git workflow CLI tool. Stage, commit, and push in one command, with selective line commits, interactive conflict resolution, and history rewriting. git, cli, workflow, terminal, commit, golang",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Gitty - awesome CLI for make default git more simple.",
-                "homepage": null,
-                "id": 1196421998,
-                "language": "Go",
-                "license": "MIT",
-                "last_commit": "2026-04-19T10:45:50Z",
-                "open_issues": 0,
-                "owner": "Omibranch",
-                "repo": "gitty",
-                "stars": 28,
-                "topics": []
-              },
-              "first_seen": "2026-10-06T11:09:08.191Z"
-            },
-            {
-              "node_type": "item",
               "title": "YYLO",
               "description": "YYLO Command-line orchestrator for coding agents with repeatable workflows, receipt-backed repository changes, and typed task, validation, and merge boundaries. ai, coding agents, cli, orchestration, terminal, workflows, developer tools",
               "children": [],
@@ -1026,10 +1005,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-03T18:44:59Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 903,
+                "stars": 905,
                 "topics": [
                   "ai-agents",
                   "ai-testing",
@@ -1071,7 +1050,7 @@
                 "open_issues": 50,
                 "owner": "Raathigesh",
                 "repo": "majestic",
-                "stars": 7445,
+                "stars": 7443,
                 "topics": [
                   "developer-experience",
                   "developer-tools",
@@ -1100,11 +1079,11 @@
                 "id": 1119622081,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-13T21:25:48Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-14T22:25:57Z",
+                "open_issues": 7,
                 "owner": "axpdev-lab",
                 "repo": "aeroftp",
-                "stars": 257,
+                "stars": 259,
                 "topics": [
                   "cloud-storage",
                   "cross-platform",
@@ -1143,10 +1122,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-03T18:44:59Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 903,
+                "stars": 905,
                 "topics": [
                   "ai-agents",
                   "ai-testing",
@@ -1171,27 +1150,6 @@
                 ]
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
-            },
-            {
-              "node_type": "item",
-              "title": "gitty",
-              "description": "gitty Git workflow CLI tool. Stage, commit, and push in one command, with selective line commits, interactive conflict resolution, and history rewriting. git, cli, workflow, terminal, commit, golang",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Gitty - awesome CLI for make default git more simple.",
-                "homepage": null,
-                "id": 1196421998,
-                "language": "Go",
-                "license": "MIT",
-                "last_commit": "2026-04-19T10:45:50Z",
-                "open_issues": 0,
-                "owner": "Omibranch",
-                "repo": "gitty",
-                "stars": 28,
-                "topics": []
-              },
-              "first_seen": "2026-10-06T11:09:08.191Z"
             },
             {
               "node_type": "item",
@@ -1268,7 +1226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T23:58:54.671Z",
+    "last_updated": "2026-10-14T23:30:08.261Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of resources for developers",
@@ -1276,11 +1234,11 @@
       "id": 332861272,
       "language": "TypeScript",
       "license": "MIT",
-      "last_commit": "2026-10-13T23:11:06Z",
-      "open_issues": 27,
+      "last_commit": "2026-10-14T19:35:22Z",
+      "open_issues": 24,
       "owner": "marcelscruz",
       "repo": "dev-resources",
-      "stars": 1353,
+      "stars": 1354,
       "topics": [
         "assets",
         "awesome",
@@ -1299,7 +1257,7 @@
         "tools"
       ]
     },
-    "original_repository_sha": "bdb4049e94128d7a4ba7932c14dd082e3eba05be",
+    "original_repository_sha": "8c5ebfdd3c0b49c23377dff5ee6537d92443ce79",
     "enhanced_repository": "enhansome/enhansome-dev-resources",
     "enhanced_repository_description": null,
     "title": "Awesome dev resources with stars"
