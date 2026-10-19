@@ -18,7 +18,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-08-03T22:10:04Z",
-                "open_issues": 107,
+                "open_issues": 112,
                 "owner": "brunopulis",
                 "repo": "awesome-a11y",
                 "stars": 1996,
@@ -84,7 +84,7 @@
                 "open_issues": 1,
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 910,
+                "stars": 911,
                 "topics": [
                   "ai-agents",
                   "ai-testing",
@@ -109,6 +109,47 @@
                 ]
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Yap MCP",
+              "description": "Yap MCP Open-source MCP server and CLI that transcribes audio files on your own computer for Claude, Cursor and other MCP clients. No upload or API key. mcp, speech to text, transcription, claude code, cursor, on-device, cli, local-first",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Private, on-device speech to text MCP server: transcribe audio files and search your Yap dictations from Claude, Cursor, VS Code or any MCP client. No upload, no API key.",
+                "homepage": "https://yapapp.cc/mcp",
+                "id": 1424625114,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-10-19T19:37:28Z",
+                "open_issues": 0,
+                "owner": "founden-bot",
+                "repo": "yap-mcp",
+                "stars": 0,
+                "topics": [
+                  "agent-plugin",
+                  "audio",
+                  "claude",
+                  "claude-code-plugin",
+                  "cursor",
+                  "dictation",
+                  "gemini-cli-extension",
+                  "local-first",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "offline",
+                  "on-device",
+                  "parakeet",
+                  "privacy",
+                  "sherpa-onnx",
+                  "speech-to-text",
+                  "transcription",
+                  "voice"
+                ]
+              },
+              "first_seen": "2026-10-19T23:57:52.723Z"
             },
             {
               "node_type": "item",
@@ -156,6 +197,54 @@
           "description": "⬆ Back to Index",
           "node_type": "group",
           "title": "AI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Yap MCP",
+              "description": "Yap MCP Open-source MCP server and CLI that transcribes audio files on your own computer for Claude, Cursor and other MCP clients. No upload or API key. mcp, speech to text, transcription, claude code, cursor, on-device, cli, local-first",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Private, on-device speech to text MCP server: transcribe audio files and search your Yap dictations from Claude, Cursor, VS Code or any MCP client. No upload, no API key.",
+                "homepage": "https://yapapp.cc/mcp",
+                "id": 1424625114,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-10-19T19:37:28Z",
+                "open_issues": 0,
+                "owner": "founden-bot",
+                "repo": "yap-mcp",
+                "stars": 0,
+                "topics": [
+                  "agent-plugin",
+                  "audio",
+                  "claude",
+                  "claude-code-plugin",
+                  "cursor",
+                  "dictation",
+                  "gemini-cli-extension",
+                  "local-first",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "offline",
+                  "on-device",
+                  "parakeet",
+                  "privacy",
+                  "sherpa-onnx",
+                  "speech-to-text",
+                  "transcription",
+                  "voice"
+                ]
+              },
+              "first_seen": "2026-10-19T23:57:52.723Z"
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Audio"
         },
         {
           "children": [
@@ -212,10 +301,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-01T14:58:51Z",
-                "open_issues": 153,
+                "open_issues": 154,
                 "owner": "MunGell",
                 "repo": "awesome-for-beginners",
-                "stars": 90404,
+                "stars": 90461,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -249,7 +338,7 @@
                 "open_issues": 58,
                 "owner": "PanXProject",
                 "repo": "awesome-certificates",
-                "stars": 5858,
+                "stars": 5862,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -281,7 +370,7 @@
                 "open_issues": 65,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 72003,
+                "stars": 72037,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -307,7 +396,7 @@
                 "open_issues": 5,
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 83692,
+                "stars": 83708,
                 "topics": [
                   "algorithms",
                   "bioinformatics",
@@ -383,8 +472,8 @@
                 "id": 1119622081,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-18T21:44:18Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-19T22:22:13Z",
+                "open_issues": 10,
                 "owner": "axpdev-lab",
                 "repo": "aeroftp",
                 "stars": 263,
@@ -509,6 +598,47 @@
             },
             {
               "node_type": "item",
+              "title": "Yap MCP",
+              "description": "Yap MCP Open-source MCP server and CLI that transcribes audio files on your own computer for Claude, Cursor and other MCP clients. No upload or API key. mcp, speech to text, transcription, claude code, cursor, on-device, cli, local-first",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Private, on-device speech to text MCP server: transcribe audio files and search your Yap dictations from Claude, Cursor, VS Code or any MCP client. No upload, no API key.",
+                "homepage": "https://yapapp.cc/mcp",
+                "id": 1424625114,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-10-19T19:37:28Z",
+                "open_issues": 0,
+                "owner": "founden-bot",
+                "repo": "yap-mcp",
+                "stars": 0,
+                "topics": [
+                  "agent-plugin",
+                  "audio",
+                  "claude",
+                  "claude-code-plugin",
+                  "cursor",
+                  "dictation",
+                  "gemini-cli-extension",
+                  "local-first",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "offline",
+                  "on-device",
+                  "parakeet",
+                  "privacy",
+                  "sherpa-onnx",
+                  "speech-to-text",
+                  "transcription",
+                  "voice"
+                ]
+              },
+              "first_seen": "2026-10-19T23:57:52.723Z"
+            },
+            {
+              "node_type": "item",
               "title": "YYLO",
               "description": "YYLO Command-line orchestrator for coding agents with repeatable workflows, receipt-backed repository changes, and typed task, validation, and merge boundaries. ai, coding agents, cli, orchestration, terminal, workflows, developer tools",
               "children": [],
@@ -572,7 +702,7 @@
                 "open_issues": 58,
                 "owner": "PanXProject",
                 "repo": "awesome-certificates",
-                "stars": 5858,
+                "stars": 5862,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -604,7 +734,7 @@
                 "open_issues": 65,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 72003,
+                "stars": 72037,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -697,7 +827,7 @@
                 "open_issues": 5,
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 83692,
+                "stars": 83708,
                 "topics": [
                   "algorithms",
                   "bioinformatics",
@@ -740,8 +870,8 @@
                 "id": 1119622081,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-18T21:44:18Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-19T22:22:13Z",
+                "open_issues": 10,
                 "owner": "axpdev-lab",
                 "repo": "aeroftp",
                 "stars": 263,
@@ -1008,7 +1138,7 @@
                 "open_issues": 1,
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 910,
+                "stars": 911,
                 "topics": [
                   "ai-agents",
                   "ai-testing",
@@ -1079,8 +1209,8 @@
                 "id": 1119622081,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-18T21:44:18Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-19T22:22:13Z",
+                "open_issues": 10,
                 "owner": "axpdev-lab",
                 "repo": "aeroftp",
                 "stars": 263,
@@ -1125,7 +1255,7 @@
                 "open_issues": 1,
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 910,
+                "stars": 911,
                 "topics": [
                   "ai-agents",
                   "ai-testing",
@@ -1226,7 +1356,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T22:38:14.870Z",
+    "last_updated": "2026-10-19T23:57:52.723Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of resources for developers",
@@ -1234,11 +1364,11 @@
       "id": 332861272,
       "language": "TypeScript",
       "license": "MIT",
-      "last_commit": "2026-10-18T19:19:57Z",
-      "open_issues": 10,
+      "last_commit": "2026-10-19T19:27:25Z",
+      "open_issues": 9,
       "owner": "marcelscruz",
       "repo": "dev-resources",
-      "stars": 1354,
+      "stars": 1353,
       "topics": [
         "assets",
         "awesome",
@@ -1257,7 +1387,7 @@
         "tools"
       ]
     },
-    "original_repository_sha": "84875d62e98bb77af10846ea03b3af93865743b2",
+    "original_repository_sha": "02d08e36a5b38f73686135a94aaeef72047f156e",
     "enhanced_repository": "enhansome/enhansome-dev-resources",
     "enhanced_repository_description": null,
     "title": "Awesome dev resources with stars"
