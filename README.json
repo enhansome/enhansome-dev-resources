@@ -18,10 +18,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-08-03T22:10:04Z",
-                "open_issues": 135,
+                "open_issues": 136,
                 "owner": "brunopulis",
                 "repo": "awesome-a11y",
-                "stars": 1999,
+                "stars": 2000,
                 "topics": [
                   "a11y",
                   "accessibility",
@@ -80,11 +80,11 @@
                 "id": 1232322871,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-01T23:55:55Z",
+                "last_commit": "2026-11-02T21:44:20Z",
                 "open_issues": 7,
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 915,
+                "stars": 919,
                 "topics": [
                   "ai-agents",
                   "ai-testing",
@@ -304,7 +304,7 @@
                 "open_issues": 166,
                 "owner": "MunGell",
                 "repo": "awesome-for-beginners",
-                "stars": 90967,
+                "stars": 91005,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -338,7 +338,7 @@
                 "open_issues": 58,
                 "owner": "PanXProject",
                 "repo": "awesome-certificates",
-                "stars": 5935,
+                "stars": 5942,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -370,7 +370,7 @@
                 "open_issues": 66,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 72470,
+                "stars": 72491,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -396,7 +396,7 @@
                 "open_issues": 6,
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 84473,
+                "stars": 84517,
                 "topics": [
                   "algorithms",
                   "bioinformatics",
@@ -472,11 +472,11 @@
                 "id": 1119622081,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-01T23:55:22Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-03T01:38:55Z",
+                "open_issues": 15,
                 "owner": "axpdev-lab",
                 "repo": "aeroftp",
-                "stars": 271,
+                "stars": 274,
                 "topics": [
                   "cloud-storage",
                   "cross-platform",
@@ -702,7 +702,7 @@
                 "open_issues": 58,
                 "owner": "PanXProject",
                 "repo": "awesome-certificates",
-                "stars": 5935,
+                "stars": 5942,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -734,7 +734,7 @@
                 "open_issues": 66,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 72470,
+                "stars": 72491,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -827,7 +827,7 @@
                 "open_issues": 6,
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 84473,
+                "stars": 84517,
                 "topics": [
                   "algorithms",
                   "bioinformatics",
@@ -870,11 +870,11 @@
                 "id": 1119622081,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-01T23:55:22Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-03T01:38:55Z",
+                "open_issues": 15,
                 "owner": "axpdev-lab",
                 "repo": "aeroftp",
-                "stars": 271,
+                "stars": 274,
                 "topics": [
                   "cloud-storage",
                   "cross-platform",
@@ -1134,11 +1134,11 @@
                 "id": 1232322871,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-01T23:55:55Z",
+                "last_commit": "2026-11-02T21:44:20Z",
                 "open_issues": 7,
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 915,
+                "stars": 919,
                 "topics": [
                   "ai-agents",
                   "ai-testing",
@@ -1180,7 +1180,7 @@
                 "open_issues": 50,
                 "owner": "Raathigesh",
                 "repo": "majestic",
-                "stars": 7441,
+                "stars": 7440,
                 "topics": [
                   "developer-experience",
                   "developer-tools",
@@ -1209,11 +1209,11 @@
                 "id": 1119622081,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-01T23:55:22Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-03T01:38:55Z",
+                "open_issues": 15,
                 "owner": "axpdev-lab",
                 "repo": "aeroftp",
-                "stars": 271,
+                "stars": 274,
                 "topics": [
                   "cloud-storage",
                   "cross-platform",
@@ -1251,11 +1251,11 @@
                 "id": 1232322871,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-01T23:55:55Z",
+                "last_commit": "2026-11-02T21:44:20Z",
                 "open_issues": 7,
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 915,
+                "stars": 919,
                 "topics": [
                   "ai-agents",
                   "ai-testing",
@@ -1337,7 +1337,7 @@
                 "open_issues": 2,
                 "owner": "antfu",
                 "repo": "retypewriter",
-                "stars": 755,
+                "stars": 754,
                 "topics": [
                   "diff",
                   "typewriter",
@@ -1356,7 +1356,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T23:57:56.162Z",
+    "last_updated": "2026-11-03T02:40:39.211Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of resources for developers",
@@ -1364,11 +1364,11 @@
       "id": 332861272,
       "language": "TypeScript",
       "license": "MIT",
-      "last_commit": "2026-11-01T07:10:05Z",
-      "open_issues": 9,
+      "last_commit": "2026-11-02T10:35:48Z",
+      "open_issues": 12,
       "owner": "marcelscruz",
       "repo": "dev-resources",
-      "stars": 1359,
+      "stars": 1360,
       "topics": [
         "assets",
         "awesome",
@@ -1387,7 +1387,7 @@
         "tools"
       ]
     },
-    "original_repository_sha": "56259ccfe84dc9b08db6b64dfcbcab134ecd3e12",
+    "original_repository_sha": "1d02d8c62ab043cc56fd85853c4a720f8eede66f",
     "enhanced_repository": "enhansome/enhansome-dev-resources",
     "enhanced_repository_description": null,
     "title": "Awesome dev resources with stars"
