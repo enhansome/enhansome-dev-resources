@@ -18,7 +18,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-08-03T22:10:04Z",
-                "open_issues": 142,
+                "open_issues": 143,
                 "owner": "brunopulis",
                 "repo": "awesome-a11y",
                 "stars": 2001,
@@ -80,11 +80,11 @@
                 "id": 1232322871,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T19:51:13Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-11T19:07:00Z",
+                "open_issues": 6,
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 852,
+                "stars": 853,
                 "topics": [
                   "ai-agents",
                   "ai-testing",
@@ -109,6 +109,63 @@
                 ]
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Gemini CLI",
+              "description": "Gemini CLI Open-source AI agent for the terminal. Free with a personal Google account: 60 requests per minute and 1,000 requests per day on Gemini models. ai, cli, terminal, coding agent",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+                "homepage": "https://geminicli.com",
+                "id": 968197216,
+                "language": "TypeScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-12T01:10:19Z",
+                "open_issues": 724,
+                "owner": "google-gemini",
+                "repo": "gemini-cli",
+                "stars": 108781,
+                "topics": [
+                  "ai",
+                  "ai-agents",
+                  "cli",
+                  "gemini",
+                  "gemini-api",
+                  "mcp-client",
+                  "mcp-server"
+                ]
+              },
+              "first_seen": "2026-11-12T02:01:34.425Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Resume Claim Guard",
+              "description": "Resume Claim Guard Open-source agent skill that writes job-tailored resumes from confirmed facts only, then audits claims before an interview. resume, agent skill, claude, codex, open source",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "防止 AI 把你的简历越写越假：逐条把简历表述拉回你能证明的事实。",
+                "homepage": "https://korey2028.tech",
+                "id": 1433331688,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-31T02:45:03Z",
+                "open_issues": 0,
+                "owner": "korey2028-prog",
+                "repo": "resume-claim-guard",
+                "stars": 1,
+                "topics": [
+                  "ai-agent",
+                  "anthropic",
+                  "claude-code",
+                  "claude-skill",
+                  "prompt-engineering",
+                  "resume"
+                ]
+              },
+              "first_seen": "2026-11-12T02:01:34.425Z"
             },
             {
               "node_type": "item",
@@ -301,10 +358,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-01T14:58:51Z",
-                "open_issues": 172,
+                "open_issues": 173,
                 "owner": "MunGell",
                 "repo": "awesome-for-beginners",
-                "stars": 91271,
+                "stars": 91315,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -338,7 +395,7 @@
                 "open_issues": 57,
                 "owner": "PanXProject",
                 "repo": "awesome-certificates",
-                "stars": 5966,
+                "stars": 5965,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -370,7 +427,7 @@
                 "open_issues": 66,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 72749,
+                "stars": 72779,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -393,10 +450,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-11-10T20:56:44Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 84805,
+                "stars": 84822,
                 "topics": [
                   "algorithms",
                   "bioinformatics",
@@ -472,11 +529,11 @@
                 "id": 1119622081,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-10T23:16:20Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-11T19:48:53Z",
+                "open_issues": 9,
                 "owner": "axpdev-lab",
                 "repo": "aeroftp",
-                "stars": 278,
+                "stars": 281,
                 "topics": [
                   "cloud-storage",
                   "cross-platform",
@@ -560,6 +617,34 @@
                 ]
               },
               "first_seen": "2026-08-28T04:55:40.576Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Resume Claim Guard",
+              "description": "Resume Claim Guard Open-source agent skill that writes job-tailored resumes from confirmed facts only, then audits claims before an interview. resume, agent skill, claude, codex, open source",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "防止 AI 把你的简历越写越假：逐条把简历表述拉回你能证明的事实。",
+                "homepage": "https://korey2028.tech",
+                "id": 1433331688,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-31T02:45:03Z",
+                "open_issues": 0,
+                "owner": "korey2028-prog",
+                "repo": "resume-claim-guard",
+                "stars": 1,
+                "topics": [
+                  "ai-agent",
+                  "anthropic",
+                  "claude-code",
+                  "claude-skill",
+                  "prompt-engineering",
+                  "resume"
+                ]
+              },
+              "first_seen": "2026-11-12T02:01:34.425Z"
             },
             {
               "node_type": "item",
@@ -667,7 +752,7 @@
                 "open_issues": 57,
                 "owner": "PanXProject",
                 "repo": "awesome-certificates",
-                "stars": 5966,
+                "stars": 5965,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -699,7 +784,7 @@
                 "open_issues": 66,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 72749,
+                "stars": 72779,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -789,10 +874,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-11-10T20:56:44Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 84805,
+                "stars": 84822,
                 "topics": [
                   "algorithms",
                   "bioinformatics",
@@ -825,6 +910,41 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Resume Claim Guard",
+              "description": "Resume Claim Guard Open-source agent skill that writes job-tailored resumes from confirmed facts only, then audits claims before an interview. resume, agent skill, claude, codex, open source",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "防止 AI 把你的简历越写越假：逐条把简历表述拉回你能证明的事实。",
+                "homepage": "https://korey2028.tech",
+                "id": 1433331688,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-31T02:45:03Z",
+                "open_issues": 0,
+                "owner": "korey2028-prog",
+                "repo": "resume-claim-guard",
+                "stars": 1,
+                "topics": [
+                  "ai-agent",
+                  "anthropic",
+                  "claude-code",
+                  "claude-skill",
+                  "prompt-engineering",
+                  "resume"
+                ]
+              },
+              "first_seen": "2026-11-12T02:01:34.425Z"
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Resume"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "AeroFTP",
               "description": "AeroFTP Open-source multi-protocol file transfer client supporting 22 protocols (FTP, SFTP, WebDAV, S3, Google Drive, Dropbox and more), with encrypted vaults, a built-in terminal and an AI assistant. Built w... ftp, sftp, webdav, s3, file transfer, cloud storage, encryption, tauri, rust",
               "children": [],
@@ -835,11 +955,11 @@
                 "id": 1119622081,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-10T23:16:20Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-11T19:48:53Z",
+                "open_issues": 9,
                 "owner": "axpdev-lab",
                 "repo": "aeroftp",
-                "stars": 278,
+                "stars": 281,
                 "topics": [
                   "cloud-storage",
                   "cross-platform",
@@ -963,6 +1083,35 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Gemini CLI",
+              "description": "Gemini CLI Open-source AI agent for the terminal. Free with a personal Google account: 60 requests per minute and 1,000 requests per day on Gemini models. ai, cli, terminal, coding agent",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+                "homepage": "https://geminicli.com",
+                "id": 968197216,
+                "language": "TypeScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-12T01:10:19Z",
+                "open_issues": 724,
+                "owner": "google-gemini",
+                "repo": "gemini-cli",
+                "stars": 108781,
+                "topics": [
+                  "ai",
+                  "ai-agents",
+                  "cli",
+                  "gemini",
+                  "gemini-api",
+                  "mcp-client",
+                  "mcp-server"
+                ]
+              },
+              "first_seen": "2026-11-12T02:01:34.425Z"
+            },
+            {
+              "node_type": "item",
               "title": "YYLO",
               "description": "YYLO Command-line orchestrator for coding agents with repeatable workflows, receipt-backed repository changes, and typed task, validation, and merge boundaries. ai, coding agents, cli, orchestration, terminal, workflows, developer tools",
               "children": [],
@@ -1022,11 +1171,11 @@
                 "id": 1232322871,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T19:51:13Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-11T19:07:00Z",
+                "open_issues": 6,
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 852,
+                "stars": 853,
                 "topics": [
                   "ai-agents",
                   "ai-testing",
@@ -1097,11 +1246,11 @@
                 "id": 1119622081,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-10T23:16:20Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-11T19:48:53Z",
+                "open_issues": 9,
                 "owner": "axpdev-lab",
                 "repo": "aeroftp",
-                "stars": 278,
+                "stars": 281,
                 "topics": [
                   "cloud-storage",
                   "cross-platform",
@@ -1139,11 +1288,11 @@
                 "id": 1232322871,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T19:51:13Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-11T19:07:00Z",
+                "open_issues": 6,
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 852,
+                "stars": 853,
                 "topics": [
                   "ai-agents",
                   "ai-testing",
@@ -1244,7 +1393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T00:55:55.942Z",
+    "last_updated": "2026-11-12T02:01:34.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of resources for developers",
@@ -1252,8 +1401,8 @@
       "id": 332861272,
       "language": "TypeScript",
       "license": "MIT",
-      "last_commit": "2026-11-10T23:30:51Z",
-      "open_issues": 17,
+      "last_commit": "2026-11-11T23:26:58Z",
+      "open_issues": 15,
       "owner": "marcelscruz",
       "repo": "dev-resources",
       "stars": 1363,
@@ -1275,7 +1424,7 @@
         "tools"
       ]
     },
-    "original_repository_sha": "cf330878f5cffb0b4bf17eb578d21a0d7e37cb81",
+    "original_repository_sha": "9144e3e29d6ed1e66643c36339edbf71079e2ff0",
     "enhanced_repository": "enhansome/enhansome-dev-resources",
     "enhanced_repository_description": null,
     "title": "Awesome dev resources with stars"
