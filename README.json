@@ -18,7 +18,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-08-03T22:10:04Z",
-                "open_issues": 149,
+                "open_issues": 151,
                 "owner": "brunopulis",
                 "repo": "awesome-a11y",
                 "stars": 2003,
@@ -122,11 +122,11 @@
                 "id": 968197216,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T01:12:45Z",
-                "open_issues": 724,
+                "last_commit": "2026-11-14T00:15:12Z",
+                "open_issues": 728,
                 "owner": "google-gemini",
                 "repo": "gemini-cli",
-                "stars": 108804,
+                "stars": 108820,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -157,10 +157,12 @@
                 "repo": "resume-claim-guard",
                 "stars": 1,
                 "topics": [
+                  "agent-skills",
                   "ai-agent",
                   "anthropic",
                   "claude-code",
                   "claude-skill",
+                  "claude-skills",
                   "prompt-engineering",
                   "resume"
                 ]
@@ -220,11 +222,11 @@
                 "id": 1129206072,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-03T18:43:57Z",
+                "last_commit": "2026-11-13T14:36:15Z",
                 "open_issues": 18,
                 "owner": "yylo-dev",
                 "repo": "yylo",
-                "stars": 66,
+                "stars": 67,
                 "topics": [
                   "agentic-coding-approved",
                   "agentic-coding-rules",
@@ -249,6 +251,27 @@
                 ]
               },
               "first_seen": "2026-10-03T00:01:34.919Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ZCode",
+              "description": "ZCode Open-source AI coding workspace by Z.ai (Apache-2.0): desktop, browser and terminal agents for the GLM models, with its agent CLI runtime. ai, coding agent, electron, glm, open source",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+                "homepage": "https://zcode.z.ai/",
+                "id": 1378288598,
+                "language": "TypeScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-13T08:21:40Z",
+                "open_issues": 11,
+                "owner": "zai-org",
+                "repo": "ZCode",
+                "stars": 8670,
+                "topics": []
+              },
+              "first_seen": "2026-11-14T01:05:11.665Z"
             }
           ],
           "description": "⬆ Back to Index",
@@ -307,6 +330,34 @@
           "children": [
             {
               "node_type": "item",
+              "title": "ZCode",
+              "description": "ZCode Open-source AI coding workspace by Z.ai (Apache-2.0): desktop, browser and terminal agents for the GLM models, with its agent CLI runtime. ai, coding agent, electron, glm, open source",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+                "homepage": "https://zcode.z.ai/",
+                "id": 1378288598,
+                "language": "TypeScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-13T08:21:40Z",
+                "open_issues": 11,
+                "owner": "zai-org",
+                "repo": "ZCode",
+                "stars": 8670,
+                "topics": []
+              },
+              "first_seen": "2026-11-14T01:05:11.665Z"
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Editor"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "PR Radar",
               "description": "PR Radar Free, open-source browser extension for a unified PR dashboard across GitHub, GitLab, and Bitbucket. CI status, review tracking, notifications, and keyboard shortcuts. pull requests, code review, CI, GitHub, GitLab, Bitbucket",
               "children": [],
@@ -358,10 +409,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-01T14:58:51Z",
-                "open_issues": 174,
+                "open_issues": 176,
                 "owner": "MunGell",
                 "repo": "awesome-for-beginners",
-                "stars": 91350,
+                "stars": 91387,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -389,13 +440,13 @@
                 "description": "Curated list of 20,000+ hours and 200+ free courses with certificates in IT, CS, Design and Business.",
                 "homepage": "https://panx.io/awesome-certificates/",
                 "id": 324033106,
-                "language": null,
+                "language": "HTML",
                 "license": "CC0-1.0",
-                "last_commit": "2026-06-30T15:46:25Z",
+                "last_commit": "2026-11-13T20:58:35Z",
                 "open_issues": 58,
                 "owner": "PanXProject",
                 "repo": "awesome-certificates",
-                "stars": 5974,
+                "stars": 5971,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -427,7 +478,7 @@
                 "open_issues": 66,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 72812,
+                "stars": 72850,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -450,10 +501,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-11-10T20:56:44Z",
-                "open_issues": 6,
+                "open_issues": 8,
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 84820,
+                "stars": 84833,
                 "topics": [
                   "algorithms",
                   "bioinformatics",
@@ -529,8 +580,8 @@
                 "id": 1119622081,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-13T01:24:25Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-14T00:24:41Z",
+                "open_issues": 11,
                 "owner": "axpdev-lab",
                 "repo": "aeroftp",
                 "stars": 281,
@@ -636,10 +687,12 @@
                 "repo": "resume-claim-guard",
                 "stars": 1,
                 "topics": [
+                  "agent-skills",
                   "ai-agent",
                   "anthropic",
                   "claude-code",
                   "claude-skill",
+                  "claude-skills",
                   "prompt-engineering",
                   "resume"
                 ]
@@ -699,11 +752,11 @@
                 "id": 1129206072,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-03T18:43:57Z",
+                "last_commit": "2026-11-13T14:36:15Z",
                 "open_issues": 18,
                 "owner": "yylo-dev",
                 "repo": "yylo",
-                "stars": 66,
+                "stars": 67,
                 "topics": [
                   "agentic-coding-approved",
                   "agentic-coding-rules",
@@ -728,6 +781,27 @@
                 ]
               },
               "first_seen": "2026-10-03T00:01:34.919Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ZCode",
+              "description": "ZCode Open-source AI coding workspace by Z.ai (Apache-2.0): desktop, browser and terminal agents for the GLM models, with its agent CLI runtime. ai, coding agent, electron, glm, open source",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+                "homepage": "https://zcode.z.ai/",
+                "id": 1378288598,
+                "language": "TypeScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-13T08:21:40Z",
+                "open_issues": 11,
+                "owner": "zai-org",
+                "repo": "ZCode",
+                "stars": 8670,
+                "topics": []
+              },
+              "first_seen": "2026-11-14T01:05:11.665Z"
             }
           ],
           "description": "⬆ Back to Index",
@@ -746,13 +820,13 @@
                 "description": "Curated list of 20,000+ hours and 200+ free courses with certificates in IT, CS, Design and Business.",
                 "homepage": "https://panx.io/awesome-certificates/",
                 "id": 324033106,
-                "language": null,
+                "language": "HTML",
                 "license": "CC0-1.0",
-                "last_commit": "2026-06-30T15:46:25Z",
+                "last_commit": "2026-11-13T20:58:35Z",
                 "open_issues": 58,
                 "owner": "PanXProject",
                 "repo": "awesome-certificates",
-                "stars": 5974,
+                "stars": 5971,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -784,7 +858,7 @@
                 "open_issues": 66,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 72812,
+                "stars": 72850,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -874,10 +948,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-11-10T20:56:44Z",
-                "open_issues": 6,
+                "open_issues": 8,
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 84820,
+                "stars": 84833,
                 "topics": [
                   "algorithms",
                   "bioinformatics",
@@ -926,10 +1000,12 @@
                 "repo": "resume-claim-guard",
                 "stars": 1,
                 "topics": [
+                  "agent-skills",
                   "ai-agent",
                   "anthropic",
                   "claude-code",
                   "claude-skill",
+                  "claude-skills",
                   "prompt-engineering",
                   "resume"
                 ]
@@ -955,8 +1031,8 @@
                 "id": 1119622081,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-13T01:24:25Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-14T00:24:41Z",
+                "open_issues": 11,
                 "owner": "axpdev-lab",
                 "repo": "aeroftp",
                 "stars": 281,
@@ -1093,11 +1169,11 @@
                 "id": 968197216,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T01:12:45Z",
-                "open_issues": 724,
+                "last_commit": "2026-11-14T00:15:12Z",
+                "open_issues": 728,
                 "owner": "google-gemini",
                 "repo": "gemini-cli",
-                "stars": 108804,
+                "stars": 108820,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -1122,11 +1198,11 @@
                 "id": 1129206072,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-03T18:43:57Z",
+                "last_commit": "2026-11-13T14:36:15Z",
                 "open_issues": 18,
                 "owner": "yylo-dev",
                 "repo": "yylo",
-                "stars": 66,
+                "stars": 67,
                 "topics": [
                   "agentic-coding-approved",
                   "agentic-coding-rules",
@@ -1217,7 +1293,7 @@
                 "open_issues": 50,
                 "owner": "Raathigesh",
                 "repo": "majestic",
-                "stars": 7438,
+                "stars": 7437,
                 "topics": [
                   "developer-experience",
                   "developer-tools",
@@ -1246,8 +1322,8 @@
                 "id": 1119622081,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-13T01:24:25Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-14T00:24:41Z",
+                "open_issues": 11,
                 "owner": "axpdev-lab",
                 "repo": "aeroftp",
                 "stars": 281,
@@ -1393,7 +1469,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T01:31:29.346Z",
+    "last_updated": "2026-11-14T01:05:11.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of resources for developers",
@@ -1401,8 +1477,8 @@
       "id": 332861272,
       "language": "TypeScript",
       "license": "MIT",
-      "last_commit": "2026-11-12T15:18:18Z",
-      "open_issues": 15,
+      "last_commit": "2026-11-13T23:15:25Z",
+      "open_issues": 17,
       "owner": "marcelscruz",
       "repo": "dev-resources",
       "stars": 1363,
@@ -1424,7 +1500,7 @@
         "tools"
       ]
     },
-    "original_repository_sha": "207c3ef2e6a2153a73cfdb01d924ff4ee9df658b",
+    "original_repository_sha": "338920edf621704ae47cb9c87ce34e21491fad8c",
     "enhanced_repository": "enhansome/enhansome-dev-resources",
     "enhanced_repository_description": null,
     "title": "Awesome dev resources with stars"
