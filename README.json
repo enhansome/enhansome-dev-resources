@@ -18,7 +18,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-08-03T22:10:04Z",
-                "open_issues": 156,
+                "open_issues": 155,
                 "owner": "brunopulis",
                 "repo": "awesome-a11y",
                 "stars": 2004,
@@ -47,7 +47,7 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-15T19:08:07Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "aasavchauhan",
                 "repo": "awesome-design-tools",
                 "stars": 4,
@@ -125,7 +125,7 @@
                 "open_issues": 7,
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 860,
+                "stars": 862,
                 "topics": [
                   "ai-agents",
                   "ai-testing",
@@ -163,11 +163,11 @@
                 "id": 968197216,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T01:06:44Z",
-                "open_issues": 736,
+                "last_commit": "2026-11-19T01:45:49Z",
+                "open_issues": 735,
                 "owner": "google-gemini",
                 "repo": "gemini-cli",
-                "stars": 108907,
+                "stars": 108928,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -309,7 +309,7 @@
                 "open_issues": 11,
                 "owner": "zai-org",
                 "repo": "ZCode",
-                "stars": 8745,
+                "stars": 8767,
                 "topics": []
               },
               "first_seen": "2026-11-14T01:05:11.665Z"
@@ -382,7 +382,7 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-15T19:08:07Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "aasavchauhan",
                 "repo": "awesome-design-tools",
                 "stars": 4,
@@ -433,7 +433,7 @@
                 "open_issues": 11,
                 "owner": "zai-org",
                 "repo": "ZCode",
-                "stars": 8745,
+                "stars": 8767,
                 "topics": []
               },
               "first_seen": "2026-11-14T01:05:11.665Z"
@@ -461,7 +461,7 @@
                 "open_issues": 7,
                 "owner": "deployhq",
                 "repo": "pr-radar",
-                "stars": 13,
+                "stars": 14,
                 "topics": [
                   "bitbucket",
                   "chrome-extension",
@@ -498,10 +498,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-01T14:58:51Z",
-                "open_issues": 181,
+                "open_issues": 182,
                 "owner": "MunGell",
                 "repo": "awesome-for-beginners",
-                "stars": 91521,
+                "stars": 91556,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -535,7 +535,7 @@
                 "open_issues": 58,
                 "owner": "PanXProject",
                 "repo": "awesome-certificates",
-                "stars": 5992,
+                "stars": 5998,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -567,7 +567,7 @@
                 "open_issues": 67,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 72967,
+                "stars": 72999,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -593,7 +593,7 @@
                 "open_issues": 4,
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 84879,
+                "stars": 84883,
                 "topics": [
                   "algorithms",
                   "bioinformatics",
@@ -669,11 +669,11 @@
                 "id": 1119622081,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-18T00:36:07Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-19T01:05:11Z",
+                "open_issues": 11,
                 "owner": "axpdev-lab",
                 "repo": "aeroftp",
-                "stars": 286,
+                "stars": 287,
                 "topics": [
                   "cloud-storage",
                   "cross-platform",
@@ -741,7 +741,7 @@
                 "open_issues": 7,
                 "owner": "deployhq",
                 "repo": "pr-radar",
-                "stars": 13,
+                "stars": 14,
                 "topics": [
                   "bitbucket",
                   "chrome-extension",
@@ -887,7 +887,7 @@
                 "open_issues": 11,
                 "owner": "zai-org",
                 "repo": "ZCode",
-                "stars": 8745,
+                "stars": 8767,
                 "topics": []
               },
               "first_seen": "2026-11-14T01:05:11.665Z"
@@ -915,7 +915,7 @@
                 "open_issues": 58,
                 "owner": "PanXProject",
                 "repo": "awesome-certificates",
-                "stars": 5992,
+                "stars": 5998,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -947,7 +947,7 @@
                 "open_issues": 67,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 72967,
+                "stars": 72999,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1040,7 +1040,7 @@
                 "open_issues": 4,
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 84879,
+                "stars": 84883,
                 "topics": [
                   "algorithms",
                   "bioinformatics",
@@ -1120,11 +1120,11 @@
                 "id": 1119622081,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-18T00:36:07Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-19T01:05:11Z",
+                "open_issues": 11,
                 "owner": "axpdev-lab",
                 "repo": "aeroftp",
-                "stars": 286,
+                "stars": 287,
                 "topics": [
                   "cloud-storage",
                   "cross-platform",
@@ -1258,11 +1258,11 @@
                 "id": 968197216,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T01:06:44Z",
-                "open_issues": 736,
+                "last_commit": "2026-11-19T01:45:49Z",
+                "open_issues": 735,
                 "owner": "google-gemini",
                 "repo": "gemini-cli",
-                "stars": 108907,
+                "stars": 108928,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -1340,7 +1340,7 @@
                 "open_issues": 7,
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 860,
+                "stars": 862,
                 "topics": [
                   "ai-agents",
                   "ai-testing",
@@ -1411,11 +1411,11 @@
                 "id": 1119622081,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-18T00:36:07Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-19T01:05:11Z",
+                "open_issues": 11,
                 "owner": "axpdev-lab",
                 "repo": "aeroftp",
-                "stars": 286,
+                "stars": 287,
                 "topics": [
                   "cloud-storage",
                   "cross-platform",
@@ -1457,7 +1457,7 @@
                 "open_issues": 7,
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 860,
+                "stars": 862,
                 "topics": [
                   "ai-agents",
                   "ai-testing",
@@ -1499,7 +1499,7 @@
                 "open_issues": 7,
                 "owner": "deployhq",
                 "repo": "pr-radar",
-                "stars": 13,
+                "stars": 14,
                 "topics": [
                   "bitbucket",
                   "chrome-extension",
@@ -1568,7 +1568,7 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-15T19:08:07Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "aasavchauhan",
                 "repo": "awesome-design-tools",
                 "stars": 4,
@@ -1606,7 +1606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T02:38:17.924Z",
+    "last_updated": "2026-11-19T02:03:58.109Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of resources for developers",
@@ -1614,8 +1614,8 @@
       "id": 332861272,
       "language": "TypeScript",
       "license": "MIT",
-      "last_commit": "2026-11-17T03:15:45Z",
-      "open_issues": 21,
+      "last_commit": "2026-11-18T23:37:29Z",
+      "open_issues": 20,
       "owner": "marcelscruz",
       "repo": "dev-resources",
       "stars": 1367,
@@ -1637,7 +1637,7 @@
         "tools"
       ]
     },
-    "original_repository_sha": "cff0ee1b84e535b65c7465e6e015a8723dde9b75",
+    "original_repository_sha": "6476489cceb67b46d363c3db68956681b4fde0b7",
     "enhanced_repository": "enhansome/enhansome-dev-resources",
     "enhanced_repository_description": null,
     "title": "Awesome dev resources with stars"
